@@ -1,0 +1,1 @@
+This workshop focuses on data organization, data import, exploratory data analysis and data visualization in Python. 
