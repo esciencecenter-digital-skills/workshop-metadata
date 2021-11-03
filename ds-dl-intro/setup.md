@@ -1,9 +1,3 @@
----
-layout: page
-title: "Setup"
-permalink: /setup/
----
-
 ## Installing Python Using Anaconda
 
 [Python][python] is a popular language for scientific computing, and a frequent choice
