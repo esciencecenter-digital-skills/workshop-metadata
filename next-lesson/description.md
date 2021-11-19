@@ -3,7 +3,7 @@ Please delete the contents of this file and fill it with your own
 
 ## Expected contents
 
-~150 words for on Eventbrite page
+~150 words for on Eventbrite registration page
 ## Example
 
 This workshop will provide you with the basics for writing your own packages in R.
