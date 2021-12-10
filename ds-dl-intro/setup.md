@@ -1,1 +1,1 @@
-https://github.com/carpentries-incubator/deep-learning-intro/blob/gh-pages/setup.md
+carpentries-incubator/deep-learning-intro/gh-pages/setup.md
