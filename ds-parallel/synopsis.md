@@ -1,11 +1,2 @@
-<div style="background: red; color: black;">FIXME</div>
-
-Please delete the contents of this file and fill it with your own
-
-## Expected contents
-
-140 characters for the Eventbrite registration page.
-
-## Example
-
-This workshop will provide participants with the basics for writing their own packages in R.
+Intermediate level course teaching the basics of Parallel Programming in Python, looking at
+optimizing inner loops and abstracting parallelism using Numba, Dask and Snakemake.
