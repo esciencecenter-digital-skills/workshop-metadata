@@ -1,4 +1,4 @@
-The workshop is aimed at graduate students and other researchers or research software engineers.
+The workshop is aimed at PhD candidates and other researchers or research software engineers.
 
 The participant should:
 - be familiar with Python
