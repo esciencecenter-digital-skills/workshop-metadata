@@ -3,11 +3,9 @@
 Please delete the contents of this file and fill it with your own
 
 ## Expected contents
-A clear description of the audience and prerequisites for taking this course
+A clear description of prerequisites for taking this course
 
 ## Example
-
-The course is aimed at graduate students and other researchers.
 
 The participants should:
 - Be familiar with _R_ and _RStudio_.
