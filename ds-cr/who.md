@@ -1,0 +1,1 @@
+It is assumed that participants already write code for their research, but no expertise is required. Some experience in navigating file trees and editing files in a terminal session, as well as basic knowledge of Python programming is recommended.
