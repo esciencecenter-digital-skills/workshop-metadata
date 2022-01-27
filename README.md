@@ -18,3 +18,4 @@ curriculum name e.g. "ds-parallel". Then eidt the files:
 -    setup.md: the requirements to follow along with the workshop.
 -    schedule.md: the times and what you will be teaching at each day in a time-table format.
 -    title.md: the title of the workshop.
+-    lesson-url.md: the link of the lesson GitHub repository, not the github.io page.
