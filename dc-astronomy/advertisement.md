@@ -1,0 +1,1 @@
+This workshop teaches the basics of how to deal with large online datasets in astronomy. You will learn how to use ADQL (a dialect of SQL) to talk to these databases, doing coordinate transformations and data visualization, all from the comfort of a Python interface. In the process we'll find a tidal stream in the Milkyway using the latest Gaia data.
