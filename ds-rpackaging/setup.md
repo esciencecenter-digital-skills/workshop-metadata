@@ -1,13 +1,24 @@
-<div style="background: red; color: black;">FIXME</div>
+---
+title: Setup
+---
 
-Please delete the contents of this file and fill it with your own.
+This lesson assumes you have current versions of the following installed on your computer:
 
-> The setup should cover 3 major platforms: Windows, MacOS and Linux.
+1. the [R software](https://cran.r-project.org/mirrors.html) itself, and
+1. [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/#download).
 
-## Expected contents
+You'll also need to install the following packages:
 
-A list of the requirements.
+- `devtools`
+- `rmarkdown`
+- `roxygen2`
 
-## Example
+They can be installed by:
 
-- For most users we recommend that you use `conda` to install the requirements for the workshop.
+~~~
+$ install.packages(c("devtools", "rmarkdown", "roxygen2"))
+~~~
+{: .language-r}
+
+
+{% include links.md %}
