@@ -9,9 +9,20 @@ You'll also need to install the following packages:
 - `rmarkdown`
 - `roxygen2`
 
-They can be installed by:
+They can be installed by typing the code below in the R console:
 
 ~~~
 $ install.packages(c("devtools", "rmarkdown", "roxygen2"))
 ~~~
 {: .language-r}
+
+If the installation went right, the code below should throw no errors:
+
+~~~
+$ library(devtools)
+$ library(rmarkdown)
+$ library(roxygen2)
+~~~
+{: .language-r}
+
+Please contact us in advance if you are experiencing problems.
