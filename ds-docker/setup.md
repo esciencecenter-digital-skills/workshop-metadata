@@ -1,1 +1,1 @@
-To participate in a workshop, you will need to install the software described in [these setup instructions](https://esciencecenter-digital-skills.github.io/docker-introduction/setup.html). In addition, you will need an up-to-date web browser.
+carpentries-incubator/docker-introduction/gh-pages/setup.md
