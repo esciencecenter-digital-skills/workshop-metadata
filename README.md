@@ -3,7 +3,7 @@
 A place to gather metadata (audience, prerequisites, workshop descriptions) for
 carpentries workshops taught at the Netherlands eScience Center. The metadata are
 used for creating a workshop page with
-[esciencecenter-digital-skills/next-workshop-template](https://github.com/esciencecenter-digital-skills/next-workshop-template).
+[esciencecenter-digital-skills/workshop-template](https://github.com/esciencecenter-digital-skills/workshop-template).
 See
 [documentation](https://github.com/esciencecenter-digital-skills/next-workshop-template#required-information-and-customizing-your-workshop-page).
 
