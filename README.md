@@ -5,7 +5,7 @@ carpentries workshops taught at the Netherlands eScience Center. The metadata ar
 used for creating a workshop page with
 [esciencecenter-digital-skills/workshop-template](https://github.com/esciencecenter-digital-skills/workshop-template).
 See
-[documentation](https://github.com/esciencecenter-digital-skills/next-workshop-template#required-information-and-customizing-your-workshop-page).
+[documentation](https://github.com/esciencecenter-digital-skills/workshop-template#required-information-and-customizing-your-workshop-page).
 
 The folder "next-lesson" is a template. Copy the folder and rename it to the
 curriculum name e.g. "ds-parallel". Then eidt the files:
