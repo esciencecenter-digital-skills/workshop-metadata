@@ -1,1 +1,1 @@
-Data Carpentry for Social Sciences with Python
+Introduction to Python for Social Scientists: a Data Carpentry Workshop. 
