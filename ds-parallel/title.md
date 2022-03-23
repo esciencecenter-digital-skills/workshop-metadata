@@ -1,1 +1,1 @@
-Parallel Programming with Python
+Parallel Programming in Python
