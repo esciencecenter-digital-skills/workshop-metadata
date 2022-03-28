@@ -1,11 +1,9 @@
----
-title: Setup
----
-### Website accounts to create
+
+#### Website accounts to create
 Please seek help at the start of the lesson if you have not been able to establish a website account on:
 - The [Docker Hub](http://hub.docker.com). We will use the Docker Hub to download pre-built container images, and for you to upload and download container images that you create, as explained in the relevant lesson episodes.
 
-### Software to install
+#### Software to install
 Docker's installation experience has steadily improved, however situations will arise in which installing Docker on your computer may not be straightforward unless you have a large amount of technical experience.
 Workshops try to have helpers on hand that have worked their way through the install process, but do be prepared for some troubleshooting.
 
@@ -13,7 +11,7 @@ In most cases, you will need to have administrator rights on the computer in ord
 
 Please try to install the appropriate software from the list below depending on the operating system that your computer is running. Do let the workshop organisers know as early as possible if you are unable to install Docker using these instructions, as there may be other options available.
 
-#### Microsoft Windows
+##### Microsoft Windows
 
 **You must have admin rights to run Docker!** Some parts of the lesson will work without running as admin but if you are unable to `Run as administrator` on your machine some elements of this workshop might not work as described.
 
@@ -23,7 +21,7 @@ Note that the above installation instructions highlight a minimum version or "bu
 
 If you are unable to follow the above instructions to install Docker Desktop on your Windows system, the final release of the deprecated Docker Toolbox version of Docker for Windows can be downloaded from the [releases page of the Docker Toolbox GitHub repository](https://github.com/docker/toolbox/releases). (Download the `.exe` file for the Windows installer). _Please note that this final release of Docker Toolbox includes an old version of Docker and you are strongly advised not to attempt to use this for any production use. It will, however, enable you to follow along with the lesson material._
 
-#### Apple macOS
+##### Apple macOS
 
 Ideally, you will be able to install the Docker Desktop software, following the [Docker website's documentation](https://docs.docker.com/docker-for-mac/install/).
 
@@ -31,7 +29,7 @@ If you already use Homebrew or MacPorts to manage your software, and would prefe
 
 If you have an older version of macOS, you could try installing the [now deprecated Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_mac/), for the purpose of working through this material, from the [releases page of the Docker Toolbox GitHub repository](https://github.com/docker/toolbox/releases). (Download the `.pkg` file for the macOS installer). _Please note that this final release of Docker Toolbox includes an old version of Docker and you are strongly advised not to attempt to use this for any production use. It will, however, enable you to follow along with the lesson material._
 
-#### Linux
+##### Linux
 
 There are too many varieties of Linux to give precise instructions here, but hopefully you can locate documentation for getting Docker installed on your Linux distribution. It may already be installed. If it is not already installed on your system, the [Install Docker Engine](https://docs.docker.com/engine/install/) page provides an overview of supported Linux distributions and pointers to relevant installation information. Alternatively, see:
 
@@ -40,7 +38,7 @@ There are too many varieties of Linux to give precise instructions here, but hop
  - [Docker Engine on Fedora](https://docs.docker.com/install/linux/docker-ce/fedora/)
  - [Docker Engine on Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 
-### A quick tutorial on copy/pasting file contents from episodes of the lesson
+#### A quick tutorial on copy/pasting file contents from episodes of the lesson
 Let's say you want to copy text off the lesson website and paste it into a file named `myfile` in the current working directory of a shell window. This can be achieved in many ways, depending on your computer's operating system, but routes I have found work for me:
 - macOS and Linux: you are likely to have the `nano` editor installed, which provides you with a very straightforward way to create such a file, just run `nano myfile`, then paste text into the shell window, and press <kbd>control</kbd>+<kbd>x</kbd> to exit: you will be prompted whether you want to save changes to the file, and you can type <kbd>y</kbd> to say "yes".
 - Microsoft Windows running `cmd.exe` shells:
