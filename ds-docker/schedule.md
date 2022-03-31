@@ -1,5 +1,3 @@
-*(preliminary)*
-
 | | |
 |--|--|
 |9:30|Welcome and Icebreaker|
