@@ -2,7 +2,7 @@
   <div class="col-md-6">
     <h3>Day 1</h3>
     <table class="table table-striped">
-      <tr> <th>timezone Amsterdam</th> <th>what</th></tr>
+      <tr> <th>local Amsterdam time</th> <th>what</th></tr>
       <tr> <td>09:30</td>  <td>Welcome and icebreaker</td> </tr>
       <tr> <td>09:45</td>  <td>Introduction</td></tr>
       <tr> <td>10:30</td>  <td>Break</td></tr>
@@ -22,7 +22,7 @@
   <div class="col-md-6">
     <h3>Day 2</h3>
     <table class="table table-striped">
-      <tr> <th>timezone Amsterdam</th> <th>what</th></tr>
+      <tr> <th>local Amsterdam time</th> <th>what</th></tr>
       <tr> <td>09:30</td>  <td>Welcome and recap</td> </tr>
       <tr> <td>09:45</td>  <td>Parallel design patterns with Dask Bags</td></tr>
       <tr> <td>10:30</td>  <td>Break</td></tr>
