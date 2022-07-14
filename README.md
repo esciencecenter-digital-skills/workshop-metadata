@@ -16,6 +16,7 @@ curriculum name e.g. "ds-parallel". Then eidt the files:
 -    synopsis.md: max 140 characters summary of the lesson
 -    syllabus.md: bullet point list of skills taught in this lesson, between 6 and 10 points
 -    setup.md: the requirements to follow along with the workshop.
+-    list-of-schedules.md: There are two lists of schedules: online and in-person. Choose one schedule from the lists or add your own schedule to the lists. Then, copy-paste the desired schedule to the file `schedule.md`.
 -    schedule.md: the times and what you will be teaching at each day in a time-table format.
 -    title.md: the title of the workshop.
 -    lesson-url.md: the link of the lesson GitHub repository, not the github.io page.

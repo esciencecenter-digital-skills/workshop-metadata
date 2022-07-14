@@ -1,6 +1,8 @@
 <div style="background: red; color: black;">FIXME</div>
 
-Please delete the contents of this file and fill it with your own
+Please delete the contents of this file and fill it with your own. You can
+choose one schedule from the lists in
+(list-of-schedules.md)[./list-of-schedules.md] and copy-paste the schedule here.
 
 ## Expected contents
 
