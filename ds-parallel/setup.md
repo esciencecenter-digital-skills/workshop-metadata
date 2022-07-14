@@ -5,6 +5,7 @@
   [Miniconda](https://docs.conda.io/en/latest/miniconda.html) if you only use the command-line
 interface. If you insist on using vanilla Python, see instructions below.
 - Git. If you're on Windows, follow these instructions: [Git for Windows](https://carpentries.github.io/workshop-template/#shell).
+- Graphviz. Follow these instructions: [Installing Graphviz](https://graphviz.org/download/)
 
 To follow along with the workshop, you need to prepare an environment. Clone the workshop repository
 that we prepared:
