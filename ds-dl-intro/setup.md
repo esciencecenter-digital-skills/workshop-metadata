@@ -68,7 +68,6 @@ If you run into any difficulties, please request help before the workshop begins
 > If you already have anaconda installed at your computer, make sure you have an up-to-date version of conda running.
 > See [these instructions](https://docs.anaconda.com/anaconda/install/update-version/) for updating conda.
 >
-{: .callout}
 
 ## Installing the required packages
 
@@ -77,8 +76,6 @@ be installed too):
 ~~~
 $ conda install "tensorflow>=2.5" seaborn "scikit-learn>=0.22" pandas
 ~~~
-{: .language-bash}
-
 
 ## Starting a Jupyter Notebook
 
@@ -95,7 +92,6 @@ To start the notebook, open a terminal or git bash and type the command:
 ~~~
 $ jupyter notebook
 ~~~
-{: .language-bash}
 
 To start the Python interpreter without the notebook, open a terminal
 or git bash and type the command:
@@ -103,7 +99,6 @@ or git bash and type the command:
 ~~~
 $ python
 ~~~
-{: .language-bash}
 
 ## Check your setup
 To check whether all packages installed correctly, start a jupyter notebook as
@@ -121,7 +116,6 @@ print('pandas version: ', pandas.__version__)
 from tensorflow import keras
 print('Keras version: ', keras.__version__)
 ~~~
-{:.language-python}
 
 This should output the versions of all required packages without giving errors.
 Most versions will work fine with this lesson, but for Keras, the minimum version is 2.2.4, and for sklearn the minimum version is 0.22.
