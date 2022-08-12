@@ -2,4 +2,4 @@
 - How to turn your script into a package
 - Writing tests
 - Writing documentation and vignettes
-- Sharing your own R package
+- Sharing your R package
