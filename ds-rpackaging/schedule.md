@@ -1,3 +1,8 @@
+This workshop is scheduled on four separate days. This allows you to work on
+your package in between, implementing the lessons you learned during our
+meetings together. Please schedule time in your calendar to do so, so you can
+take full advantage of the workshop.
+
 <div class="row">
   <div class="col-md-6">
     <h3>Day 1. Wed 14 September 2022</h3>
