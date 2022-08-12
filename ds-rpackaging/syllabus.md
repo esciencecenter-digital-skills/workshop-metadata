@@ -1,6 +1,5 @@
-- Introduction to packages
-- Setup of a package
-- Installing packages
-- Testing packages
-- Documenting packages
-- Writing vignettes
+- Introduction to packages and reproducible research with R
+- How to turn your script into a package
+- Writing tests
+- Writing documentation and vignettes
+- Sharing your own R package

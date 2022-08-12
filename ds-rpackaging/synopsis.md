@@ -1,1 +1,1 @@
-This workshop will provide participants with the basics for writing their own packages in R.
+This workshop will take participants from an R script to their own reusable, shareable R package.
