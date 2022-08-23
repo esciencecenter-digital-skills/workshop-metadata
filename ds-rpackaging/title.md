@@ -1,1 +1,1 @@
-Reproducible Research with R Packages
+Reproducible Research with R Packages (weekly)
