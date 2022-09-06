@@ -89,28 +89,23 @@ pip install tensorflow>=2.5 seaborn scikit-learn pandas
 [pip](https://pip.pypa.io/en/stable/) is the package management system for Python software packages.
 It is integrated into your local Python installation and runs regardless of your operating system too.
 
-## Starting a Jupyter Notebook
+## Starting Jupyter Lab
 
-We will teach using Python in a [Jupyter notebook][jupyter], a
-programming environment that runs in a web browser. Jupyter requires a reasonably
+We will teach using Python in [Jupyter lab][jupyter], a
+programming environment that runs in a web browser. Jupyter lab requires a reasonably
 up-to-date browser, preferably a current version of Chrome, Safari, or Firefox
 (note that Internet Explorer version 9 and below are *not* supported). If you
-installed Python using Anaconda, Jupyter should already be on your system. If
+installed Python using Anaconda, Jupyter lab should already be on your system. If
 you did not use Anaconda, use the Python package manager pip
 (see the [Jupyter website][jupyter-install] for details.)
 
-To start the notebook, open a terminal and type the command:
+To start jupyter lab, open a terminal and type the command:
 
 ~~~
-$ jupyter notebook
+$ jupyter lab
 ~~~
 
-To start the Python interpreter without the notebook, open a terminal
-or git bash and type the command:
-
-~~~
-$ python
-~~~
+Then open a notebook by following [these instructions][jupyter-open-notebook]
 
 ## Check your setup
 To check whether all packages installed correctly, start a jupyter notebook as
@@ -144,7 +139,8 @@ Download the [weather dataset prediction csv][weatherdata] and [BBQ labels][weat
 [continuum-linux]: http://continuum.io/downloads#_unix
 [continuum-windows]: http://continuum.io/downloads#_windows
 [jupyter]: http://jupyter.org/
-[jupyter-install]: http://jupyter.readthedocs.io/en/latest/install.html#optional-for-experienced-python-developers-installing-jupyter-with-pip
+[jupyter-install]: https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
+[jupyter-open-notebook]: https://jupyterlab.readthedocs.io/en/stable/user/notebook.html
 [python]: https://python.org
 [video-mac]: https://www.youtube.com/watch?v=TcSAln46u9U
 [video-windows]: https://www.youtube.com/watch?v=xxQ0mzZ8UvA
