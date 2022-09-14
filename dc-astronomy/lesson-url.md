@@ -1,1 +1,1 @@
-https://datacarpentry.org/astronomy-python/index.html
+https://github.com/datacarpentry/astronomy-python
