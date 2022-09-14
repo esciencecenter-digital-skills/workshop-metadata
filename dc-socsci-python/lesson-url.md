@@ -1,1 +1,1 @@
-https://datacarpentry.org/socialsci-workshop/
+https://github.com/datacarpentry/python-socialsci
