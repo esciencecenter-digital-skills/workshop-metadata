@@ -33,3 +33,9 @@ Only follow these instructions if you're on Linux or Mac and don't have `conda` 
 that you have Python 3.9 installed.
 
 If you've never used `poetry` before, [check it out!](https://python-poetry.org/)
+
+```bash
+pip install --user poetry
+poetry install
+poetry run pytest
+```
