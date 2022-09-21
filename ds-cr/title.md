@@ -1,1 +1,1 @@
-Best Practices in Research Software Development (Code Refinery)
+Best Practices in Research Software Development
