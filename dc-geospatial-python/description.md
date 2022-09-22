@@ -1,13 +1,1 @@
-<div style="background: red; color: black;">FIXME</div>
-Please delete the contents of this file and fill it with your own
-
-## Expected contents
-
-~150 words for on Eventbrite registration page
-## Example
-
-This workshop will provide you with the basics for writing your own packages in R.
-
-R packages are no more and no less than a standard way of structuring your work. You'll have a folder for code, a folder for tests, a folder for data, a folder for documents, and so on. The standardization makes packages easily installable and shareable.
-
-Even if you are not planning to publish your package, structuring your research as one is also a very good idea. It enforces, in a relatively effortless manner, the implementation of software development best practices. This will lead to a safer, more robust, more manageable and more enjoyable working experience.
+Python is one of the most popular programming languages for data science and analytics, with a large and steadily growing community in the field of Earth and Space Sciences. In this workshop, we will help participants with a working knowledge of Python to familiarize with the world of geospatial raster and vector data. We will introduce a set of tools from the Python ecosystem and show how these can be used to carry out practical geospatial data analysis tasks. In particular, we will consider satellite images and public geo-datasets and demonstrate how these can be opened, explored, manipulated, combined, and visualized using Python.
