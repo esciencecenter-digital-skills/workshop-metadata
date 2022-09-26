@@ -1,0 +1,2 @@
+<!-- If the setup instructions need to change, please file an issue here: https://github.com/carpentries-incubator/geospatial-python/issues -->
+Please follow [these setup instructions](https://carpentries-incubator.github.io/geospatial-python/setup.html) in preparation for the workshop.

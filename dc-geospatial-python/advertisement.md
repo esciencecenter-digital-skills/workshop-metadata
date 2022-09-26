@@ -1,0 +1,1 @@
+Have you just jumped on the ship of Python? Are you looking for existing Python tools to help you with your raster or vector data? How can you elegantly access and process your geospatial datasets in Python? Come and take a look at this workshop! You get hands-on experience with the most popular Python tools in the open community!
