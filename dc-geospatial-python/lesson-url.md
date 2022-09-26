@@ -1,1 +1,1 @@
-https://carpentries-incubator.github.io/geospatial-python/
+https://github.com/carpentries-incubator/geospatial-python
