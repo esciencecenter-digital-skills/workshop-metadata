@@ -1,1 +1,1 @@
-This workshop introduces the fundamental knowledge needed to start programming GPUs using Python and CUDA.
+This workshop covers the basic concepts and tools needed to program GPUs using Python and CUDA.
