@@ -1,0 +1,13 @@
+# Resources
+- Interesting project for explainable AI (XAI) with links to methods/research in XAI, [DIANNA](https://github.com/dianna-ai/dianna)
+- [3D visualization of Convolutional Neural Network](https://web.archive.org/web/20220126212933/https://www.cs.ryerson.ca/~aharley/vis/conv/)
+- [The difference between validation data and test data](https://machinelearningmastery.com/difference-test-validation-datasets/)
+- [Underfitting and overfitting](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/)
+- [Unbalanced data](https://towardsdatascience.com/handling-imbalanced-datasets-in-deep-learning-f48407a0e758)
+- [Unbalanced data in Keras](https://www.tensorflow.org/tutorials/structured_data/imbalanced_data)
+- [Tensorflow Playground, for visualizing neural networks](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.45454&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+- [Available loss functions in keras (documentation)](https://keras.io/api/losses/)
+- [Documentation on keras optimizers](https://keras.io/api/optimizers/)
+- [Documentation on Keras EarlyStopping](https://keras.io/api/callbacks/early_stopping/)
+- [Documentaion on the Keras batch_normalization layer](https://keras.io/api/layers/normalization_layers/batch_normalization/)
+- [Transfer learning in Keras](https://keras.io/guides/transfer_learning/)
