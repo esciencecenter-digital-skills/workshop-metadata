@@ -2,7 +2,7 @@
   <div class="col-md-6">
     <h3>Day 1</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome and icebreaker </td> </tr>
+      <tr> <td>09:00</td>  <td>Welcome and icebreaker </td> </tr>
       <tr> <td>09:15</td>  <td>Introduction</td> </tr>
       <tr> <td>09:30</td>  <td>Convolve an image with a kernel on a GPU using CuPy</td> </tr>
       <tr> <td>10:15</td>  <td>Coffee break</td> </tr>
