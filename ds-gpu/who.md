@@ -4,5 +4,5 @@ The participant should:
 - have the ability to read and understand C code
 
 Preferred:
-- knowledge of Numpy
+- knowledge of NumPy
 - familiarity with high-performance computing concepts
