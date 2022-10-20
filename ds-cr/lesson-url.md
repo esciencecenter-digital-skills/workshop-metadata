@@ -1,1 +1,1 @@
-https://github.com/esciencecenter-digital-skills/lesson-how-to-write-good-code
+https://github.com/esciencecenter-digital-skills/good-practices-in-research-software-development
