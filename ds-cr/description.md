@@ -1,5 +1,5 @@
 The key objective of this workshop is to grow researchers' software skills necessary
-to apply best practices that enable open and reproducible research.
+to apply good practices that enable open and reproducible research.
 The workshop focuses on building modular, reusable, maintainable, sustainable, reproducible,
 testable, and robust software. The participants should be familiar with programming
 and regularly write code for their research, but no expertise is required.
