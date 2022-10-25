@@ -1,0 +1,5 @@
+* [HackMD Markdown Guide](https://www.markdownguide.org/tools/hackmd/)
+* [JupyterHub Guide](https://servicedesk.surfsara.nl/wiki/display/WIKI/User+Manual+-+Student)
+* [CuPy User Guide](https://docs.cupy.dev/en/stable/user_guide/index.html)
+* [Numba User Guide](https://numba.pydata.org/numba-doc/latest/user/index.html)
+* [CUDA Documentation](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
