@@ -1,3 +1,2 @@
-# Resources
 - [Dask documentation](https://docs.dask.org/en/stable/)
 - [Snakemake documentation](https://snakemake.readthedocs.io/en/stable/)
