@@ -12,7 +12,7 @@
       <tr> <td>11:30</td>  <td>Coffee break</td> </tr>
       <tr> <td>11:45</td>  <td>Read and visualize raster data</td> </tr>
       <tr> <td>12:30</td>  <td>Wrap-up</td> </tr>
-      <tr> <td>12:45</td>  <td>END</td> </tr>
+      <tr> <td>13:00</td>  <td>END</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
@@ -26,7 +26,7 @@
       <tr> <td>11:30</td>  <td>Coffee break</td> </tr>
       <tr> <td>11:45</td>  <td>Raster Calculations in Python</td> </tr>
       <tr> <td>12:30</td>  <td>Wrap-up</td> </tr>
-      <tr> <td>12:45</td>  <td>END</td> </tr>
+      <tr> <td>13:00</td>  <td>END</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
@@ -38,8 +38,8 @@
       <tr> <td>10:30</td>  <td>Parallel raster computations using Dask</td> </tr>
       <tr> <td>11:15</td>  <td>Coffee break</td> </tr>
       <tr> <td>11:30</td>  <td>Parallel raster computations using Dask</td> </tr>
-      <tr> <td>12:15</td>  <td>Wrap-up</td> </tr>
-      <tr> <td>12:45</td>  <td>END</td> </tr>
+      <tr> <td>12:30</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>13:00</td>  <td>END</td> </tr>
     </table>
   </div>
 </div>
