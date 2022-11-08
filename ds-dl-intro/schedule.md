@@ -7,6 +7,7 @@
   - Identify the inputs and outputs of a Deep Learning system.
   - Test that we've correctly installed the Keras, Seaborn and Sklearn libraries
 
+## Day 2
 - Classification by a Neural Network using Keras
   - Use the deep learning workflow to structure the notebook
   - Explore the dataset using pandas and seaborn
@@ -17,8 +18,7 @@
   - Plot the loss curve of the training process
   - Use a confusion matrix to measure the trained networks' performance on a test set
 
-
-## Day 2
+## Day 3
 - Monitor the training process
   - Explain the importance of splitting the training data
   - Use the data splits to plot the training process
@@ -29,7 +29,7 @@
 
 
 
-## Day 3
+## Day 4
 - Networks are like onions
   - Understand why convolutional and pooling layers are useful for image data
   - Use normalization as preparation step for Deep Learning
