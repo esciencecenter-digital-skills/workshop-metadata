@@ -1,0 +1,1 @@
+Chances are that you have multiple programs to view and manipulate images, but did you know you can write your own programs and scripts to manipulate images? Image processing is critical to many disciplines in the fields of health and biology. Join us for an in depth look at images. 
