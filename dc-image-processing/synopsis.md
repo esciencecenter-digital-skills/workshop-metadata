@@ -1,1 +1,1 @@
-In this workshop participants will take an R script, and turn it into a reusable, shareable R package.
+In this workshop participants will use Python to understand and manipulate images.
