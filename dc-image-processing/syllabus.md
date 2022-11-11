@@ -1,9 +1,9 @@
 - Introduction to images : Digital Image Basics	
 - Working with skimage:	How can the skimage Python computer vision library be used to work with images?
 - Drawing and Bitwise Operations
-- Creating Histograms: 	How can we create grayscale and colour histograms to understand the distribution of values in an image?
+- Creating Histograms: 	How can we create grayscale and color histograms to understand the distribution of values in an image?
 - Blurring Images: Intro to filtering and blurring
 -  Thresholding: 	How can we use thresholding to produce a binary image?
 -  Connected Component Analysis:	How to extract separate objects from an image and describe these objects quantitatively.
 - Capstone Challenge: solving a real world microscopy problem
-- Bonus session: Images in medicne
+- Bonus session: Images in medicine
