@@ -11,3 +11,8 @@
 - [Documentation on Keras EarlyStopping](https://keras.io/api/callbacks/early_stopping/)
 - [Documentaion on the Keras batch_normalization layer](https://keras.io/api/layers/normalization_layers/batch_normalization/)
 - [Transfer learning in Keras](https://keras.io/guides/transfer_learning/)
+- [Explainable AI software](https://github.com/dianna-ai/dianna)
+- ['Machine learning yearning' by Andrew Ng](https://github.com/ajaymache/machine-learning-yearning). Small one-page practical tips, about real-world machine learning setting that you often don't learn about in courses. For example: 'How to decide how to include inconsistent data?'.
+- [CIFAR10 state of the art model in Keras](https://github.com/Adeel-Intizar/CIFAR-10-State-of-the-art-Model)
+- [MIT lecture about neurons, layers, and bias](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=13&ab_channel=AlexanderAmini)
+- [MIT lecture on convolutional networks](https://www.youtube.com/watch?v=iaSUYvmCekI&ab_channel=AlexanderAmini)
