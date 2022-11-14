@@ -3,8 +3,6 @@
 - [Information about compiler used by numba, LLVM](https://ww.llvm.org)
 - [Python features supported by numba](https://numba.pydata.org/numba-doc/dev/reference/pysupported.html)
 - [Timeit docs](https://docs.python.org/3/library/timeit.html)
-- [Data carpentry with Python](https://3zpb11r.momice.events/page/854828)
-- [MPI with Dask](https://mpi.dask.org/en/latest/) ##
+- [MPI with Dask](https://mpi.dask.org/en/latest/)
 - [Python implementation with JIT](https://pypy.org)
-- [Calling external C and C++](https://carpentries-incubator.github.io/lesson-parallel-python/08-calling_external_C_libraries/index.html) ##
-- [Research software NL-RSE](https://nl-rse.org)
+- [Calling external C and C++](https://carpentries-incubator.github.io/lesson-parallel-python/08-calling_external_C_libraries/index.html) 
