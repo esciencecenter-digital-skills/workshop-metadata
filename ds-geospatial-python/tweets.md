@@ -11,5 +11,5 @@ Are you a researcher in Earth or Space Sciences? Join our Geospatial Python work
 using real-life geo-datasets and satellite images. [link]
 
 4.
-Explore the world of vector data and geospatial raster during our Geospatial Python workshop on [date]. 
+Explore the world of vector data and geospatial rasters during our Geospatial Python workshop on [date]. 
 We will teach you how to use various Python tool for geospatial data analysis using real-world examples: [link]
