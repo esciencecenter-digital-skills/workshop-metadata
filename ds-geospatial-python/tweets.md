@@ -1,5 +1,5 @@
 1.
-Do you want to understand spatial and vector data, but don’t know where to start? Our Geospatial Python workshop is for you!
+Do you want to understand raster and vector data, but don’t know where to start? Our Geospatial Python workshop is for you!
 Join and learn how to deal with geospatial data using real-world datasets: [link]
 
 2.
