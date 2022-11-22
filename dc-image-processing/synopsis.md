@@ -1,0 +1,1 @@
+In this workshop participants will use Python to understand and manipulate images.
