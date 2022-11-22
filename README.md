@@ -21,3 +21,4 @@ curriculum name e.g. "ds-parallel". Then eidt the files:
 -    title.md: the title of the workshop.
 -    lesson-url.md: the link of the lesson GitHub repository, not the github.io page.
 -    resources.md: a list of useful resources for workshop participants
+-    tweets.md: a collection of tweets to promote the workshop
