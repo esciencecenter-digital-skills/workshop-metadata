@@ -7,9 +7,9 @@ Want to improve the quality of your software? During our workshop on [date] you 
 collaboration with git and GitHub, and reproducible research: [link]
 
 3.
-Are you a researcher looking to take your software to the next level? Join or workshop to explore methods that will help you create sustainable,
+Are you a researcher looking to take your software to the next level? Join our workshop to explore methods that will help you create sustainable,
 collaborative, and testable software: [link]
 
 4.
 Do you know and use good software practices in your work? Come and join us on [date] to improve your skills and knowledge in version control, 
-collaborative software development, and other open and reproducible research software practices: [link ]
+collaborative software development, and other open and reproducible research software practices: [link]
