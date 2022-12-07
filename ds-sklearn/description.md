@@ -4,7 +4,7 @@ Machine learning is the field devoted to methods and algorithms that 'learn' fro
 It can be applied to a vast range of different domains, from linguistics to physics and from medical imaging to history.
 
 This introduction aims to cover the basics of machine learning in a practical and hands-on manner, 
-so that upon completion, you will be able to train your first machine learning models and understand what next steps to take to improve the them.
+so that upon completion, you will be able to train your first machine learning models and understand what next steps to take to improve them.
 
 We start with processing the data so that it is suitable for machine learning.
 Then we learn how to fit a model to the data using scikit-learn.
