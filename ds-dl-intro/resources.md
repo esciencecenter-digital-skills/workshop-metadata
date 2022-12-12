@@ -9,10 +9,24 @@
 - [Available loss functions in keras (documentation)](https://keras.io/api/losses/)
 - [Documentation on keras optimizers](https://keras.io/api/optimizers/)
 - [Documentation on Keras EarlyStopping](https://keras.io/api/callbacks/early_stopping/)
+- [Documentation on Keras metrics](https://keras.io/api/metrics/)
 - [Documentaion on the Keras batch_normalization layer](https://keras.io/api/layers/normalization_layers/batch_normalization/)
 - [Transfer learning in Keras](https://keras.io/guides/transfer_learning/)
-- [Explainable AI software](https://github.com/dianna-ai/dianna)
 - ['Machine learning yearning' by Andrew Ng](https://github.com/ajaymache/machine-learning-yearning). Small one-page practical tips, about real-world machine learning setting that you often don't learn about in courses. For example: 'How to decide how to include inconsistent data?'.
-- [CIFAR10 state of the art model in Keras](https://github.com/Adeel-Intizar/CIFAR-10-State-of-the-art-Model)
 - [MIT lecture about neurons, layers, and bias](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=13&ab_channel=AlexanderAmini)
 - [MIT lecture on convolutional networks](https://www.youtube.com/watch?v=iaSUYvmCekI&ab_channel=AlexanderAmini)
+- [Solve FizzBuzz with deep learning (please don't)](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
+- Models on the net:
+    - www.huggingface.co
+    - https://modelzoo.co/
+    - https://www.tensorflow.org/resources/models-datasets
+    - https://github.com/onnx/models
+- [Activation functions](https://en.wikipedia.org/wiki/Activation_function)
+- [Fast.ai](https://fast.ai)
+- [Adam optimizer](https://machinelearningjourney.com/index.php/2021/01/09/adam-optimizer/)
+- [ReLU vs Sigmoid](https://medium.com/geekculture/relu-vs-sigmoid-5de5ff756d93)
+- [Batch size - an experiment](https://androidkt.com/ideal-batch-size-for-the-keras-neural-network/)
+- [Hyperparameter tuning in tensorboard](https://www.tensorflow.org/tensorboard/hyperparameter_tuning_with_hparams)
+- [Play with convolution filter visually](https://setosa.io/ev/image-kernels/)
+- [Stanford DL course summary](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#)
+- [state-of-the-art models for CIFAR-10 data](https://paperswithcode.com/sota/image-classification-on-cifar-10)
