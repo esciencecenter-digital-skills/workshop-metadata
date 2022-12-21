@@ -1,0 +1,1 @@
+Follow [these setup instructions](https://carpentries-incubator.github.io/python-intermediate-development/setup.html).
