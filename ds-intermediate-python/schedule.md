@@ -29,6 +29,7 @@
       <tr> <td>10:40</td>  <td>Software Development as a Process</td> </tr>
       <tr> <td>11:30</td>  <td>Break</td></tr>
       <tr> <td>11:40</td>  <td>Software Development as a Process</td></tr>
+      <tr> <td>12:00</td>  <td>Collaborative Software Development for Reuse</td></tr>
       <tr> <td>12:30</td>  <td>Lunch Break</td></tr>
       <tr> <td>13:30</td>  <td>Collaborative Software Development for Reuse</td></tr>
       <tr> <td>14:30</td>  <td>Break</td></tr>
