@@ -1,1 +1,1 @@
-Intermediate Research Software Development
+Intermediate Research Software Development with Python
