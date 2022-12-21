@@ -1,0 +1,2 @@
+This course aims to teach a core set of established, intermediate-level software development skills and 
+best practices for working as part of a team in a research environment using Python as an example programming language.
