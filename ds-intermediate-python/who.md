@@ -12,7 +12,7 @@ This course is for you if:
 * This course is not for you if:
     * You have not yet started writing software (in which case have a look at the Software Carpentry course or some other Python course for novices first)
     * You have learned the basics of writing software but have not applied that knowledge yet (or are unsure how to apply it) to your work. In this case, we suggest you revisit the course after you have been programming for at least 6 months
-    * You are well familiar with the learning objectives of the course and those of individual episodes
+    * You are already reasonably familiar with the learning objectives of the course and those of individual episodes
     * The software you write is fully documented and well architected
 
 To attend this course you should meet the following criteria. You can also test your prerequisite knowledge by taking this short quiz.
