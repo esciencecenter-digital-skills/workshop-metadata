@@ -11,7 +11,7 @@ However, their software development-related projects are now becoming larger and
 involving more researchers and other stakeholders (e.g. users), for example:
 * Software is becoming more complex and more collaborative development effort is needed to keep the software running
 * Software is going further that just the small group developing and/or using the code - there are more users and an increasing need to add new features
-* ‘Technical debt’ is increasing with demands to add new functionality while ensuring previous development efforts remain functional and maintainable
+* [‘Technical debt’](https://en.wikipedia.org/wiki/Technical_debt) is increasing with demands to add new functionality while ensuring previous development efforts remain functional and maintainable
 
 They now need intermediate software engineering skills to help them design more robust software code that goes beyond a 
 few thrown-together proof-of-concept scripts, taking into consideration the lifecycle of software, 
