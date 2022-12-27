@@ -15,5 +15,5 @@ involving more researchers and other stakeholders (e.g. users), for example:
 
 They now need intermediate software engineering skills to help them design more robust software code that goes beyond a 
 few thrown-together proof-of-concept scripts, taking into consideration the lifecycle of software, 
-writing software for stakeholders, team ethic and applying a process to understanding, designing, building, releasing, 
+writing software for stakeholders, working in a team and applying a process to understanding, designing, building, releasing, 
 and maintaining software.
