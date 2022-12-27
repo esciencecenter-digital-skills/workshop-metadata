@@ -1,7 +1,7 @@
 This course aims to teach a core set of established, intermediate-level software development skills and 
 best practices for working as part of a team in a research environment using Python as an example programming language
 The core set of skills we teach is not a comprehensive set of all-encompassing skills, 
-but a selective set of tried-and-tested collaborative development skills that forms a firm foundation for continuing 
+but rather a selective set of tried-and-tested collaborative development skills that forms a firm foundation for continuing 
 on your learning journey.
 
 A typical learner for this course may be someone who is working in a research environment, needing to write some code, 
