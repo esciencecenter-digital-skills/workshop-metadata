@@ -27,4 +27,4 @@ Python
 * You have previously written Python scripts or iPython/Jupyter notebooks to accomplish tasks in your domain of work
 Shell
 * You have experience using a command line interface, such as Bash, to navigate a UNIX-style file system and run commands with arguments
-* Optionally, you have experience redirecting inputs and outputs from a command
+* Ideally, you have experience redirecting inputs and outputs from a command
