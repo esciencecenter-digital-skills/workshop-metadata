@@ -21,7 +21,7 @@ Git
 * You are familiar with the concept of version control
 * You have experience configuring Git for the first time and creating a local repository
 * You have experience using Git to create and clone a repository and add/commit changes to it and to push to/pull from a remote repository
-* Optionally, you have experience comparing various versions of tracked files or ignoring specific files
+* Ideally, you have experience comparing various versions of tracked files or ignoring specific files
 Python
 * You have a basic knowledge of programming in Python (using variables, lists, conditional statements, functions and importing external libraries)
 * You have previously written Python scripts or iPython/Jupyter notebooks to accomplish tasks in your domain of work
