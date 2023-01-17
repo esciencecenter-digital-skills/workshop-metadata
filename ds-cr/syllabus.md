@@ -13,7 +13,7 @@ Collaboration with Git and Github
 Code Documentation 
 * In-code documentation
 * Readme files
-* Writing documentation with sphinx and ReadTheDocs
+* Writing documentation with sphinx and ReadTheDocs or Github pages
 
 Modular Code Development
 * How can you create blocks of code that can be reused?
