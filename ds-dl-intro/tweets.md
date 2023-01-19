@@ -8,3 +8,5 @@ Take the first step with us during the (Deep Learning) workshop on [date]: [link
 
 3.
 Learn the basics of Deep Learning, including deep neural networks, data preparation, and convolutional layers during our (Deep Learning) workshop on [date]: [link] 
+
+4. Another tweet
