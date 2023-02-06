@@ -1,6 +1,7 @@
 Machine learning concepts
 - What is machine learning?
 - Different types of machine learning
+- Big picture of machine learning models
 - General pipeline
 
 The predictive modeling pipeline
@@ -12,10 +13,6 @@ Selecting the best model
 - Overfitting and underfitting
 - Validation and learning curves
 - Bias versus variance trade-off
-
-Intuition on various models
-- Linear models
-- Tree-based models
 
 Machine learning best practices
 - Data hygiene
