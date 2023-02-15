@@ -8,7 +8,7 @@ so that upon completion, you will be able to train your first machine learning m
 
 We start with data exploration so that it is suitable for machine learning.
 Then we learn how to train a model on the data using scikit-learn.
-We learn how to select the best model from the trained models, learn how to
+We learn how to select the best model from the trained models and how to
 use different machine learning models (like linear regression, logistic regression,
 decision tree and support vector machine),
 and discuss some of the best practices when starting your own machine learning project.
