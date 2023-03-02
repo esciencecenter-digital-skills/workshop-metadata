@@ -4,8 +4,8 @@ during our meetings together. Please schedule dedicated work time in your
 calendar, so you can take full advantage of the workshop.
 
 This workshop is taught in half days, and may be given either in the morning or the afternoon.
-In this schedule, both morning and afternoon times are indicated. Please consult the header
-of your course website to see which times apply.
+In this schedule, both morning and afternoon times are indicated. **For the upcoming workshop (March 2023),
+the afternoon schedule will be followed.**
 
 <div class="row">
   <div class="col-md-6">
