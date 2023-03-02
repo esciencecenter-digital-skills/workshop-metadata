@@ -7,7 +7,6 @@ calendar, so you can take full advantage of the workshop.
   <div class="col-md-6">
     <h3>Week 1</h3>
     <table class="table table-striped">
-      <tr> <td></td> <td></td> </tr>
       <tr> <td>Welcome and icebreaker </td> </tr>
       <tr> <td>13:15</td> <td>Introduction, Accessing packages</td> </tr>
       <tr> <td>14:15</td> <td>Coffee break</td> </tr>
@@ -21,7 +20,6 @@ calendar, so you can take full advantage of the workshop.
   <div class="col-md-6">
     <h3>Week 2</h3>
     <table class="table table-striped">
-      <tr> <td></td> <td></td> </tr>
       <tr> <td>Welcome and icebreaker</td> </tr>
       <tr> <td>13:15</td> <td>Recap homework & Lessons learned</td> </tr>
       <tr> <td>14:15</td> <td>Coffee break</td> </tr>
@@ -35,7 +33,6 @@ calendar, so you can take full advantage of the workshop.
   <div class="col-md-6">
     <h3>Week 3</h3>
     <table class="table table-striped">
-      <tr> <td></td> <td></td> </tr>
       <tr> <td>Welcome and icebreaker</td> </tr>
       <tr> <td>13:15</td> <td>Recap homework & Lessons learned</td> </tr>
       <tr> <td>14:15</td> <td>Coffee break</td> </tr>
@@ -49,7 +46,6 @@ calendar, so you can take full advantage of the workshop.
   <div class="col-md-6">
     <h3>Week 4</h3>
     <table class="table table-striped">
-      <tr> <td></td> <td></td> </tr>
       <tr> <td>Welcome and icebreaker</td> </tr>
       <tr> <td>13:15</td> <td>Recap homework & Lessons learned</td> </tr>
       <tr> <td>14:15</td> <td>Coffee break</td> </tr>
