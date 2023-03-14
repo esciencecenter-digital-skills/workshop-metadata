@@ -5,4 +5,4 @@
 - Working with Numba
 - Parallel design patterns
 - Delayed evaluation
-- Dependency based programming using Snakemake
+- Parallel programming using asyncio
