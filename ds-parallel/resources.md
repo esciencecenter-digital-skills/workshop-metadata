@@ -2,9 +2,6 @@ Dask:
 - [Dask documentation](https://docs.dask.org/en/stable/)
 - [MPI with Dask](https://mpi.dask.org/en/latest/)
 
-Snakemake:
-- [Snakemake documentation](https://snakemake.readthedocs.io/en/stable/)
-
 Numba:
 - [Information about compiler used by numba, LLVM](https://ww.llvm.org)
 - [Python features supported by numba](https://numba.pydata.org/numba-doc/dev/reference/pysupported.html)
