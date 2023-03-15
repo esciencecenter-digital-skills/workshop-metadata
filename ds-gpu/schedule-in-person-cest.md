@@ -41,4 +41,4 @@
   </div>
 </div>
 
-<p><b>All times in the schedule are in the CET timezone.</b></p>
+<p><b>All times in the schedule are in the CEST timezone.</b></p>
