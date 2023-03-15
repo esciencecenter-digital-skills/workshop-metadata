@@ -4,3 +4,4 @@
 - use CuPy to execute CUDA code in Python
 - understand the different CUDA memories
 - thread synchronization in CUDA
+- overlapping computation and communication
