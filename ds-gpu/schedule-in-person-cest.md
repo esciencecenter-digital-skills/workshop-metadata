@@ -23,7 +23,6 @@
     <h3>Day 2</h3>
     <table class="table table-striped">
       <tr> <td>09:30</td>  <td>Welcome and icebreaker </td> </tr>
-      <tr> <td>09:45</td>  <td>Introduction</td> </tr>
       <tr> <td>10:00</td>  <td>Introduction to CUDA</td> </tr>
       <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
       <tr> <td>10:45</td>  <td>CUDA memories and their use</td> </tr>
