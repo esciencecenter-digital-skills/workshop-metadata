@@ -6,4 +6,4 @@
 -  Thresholding: 	How can we use thresholding to produce a binary image?
 -  Connected Component Analysis:	How to extract separate objects from an image and describe these objects quantitatively.
 - Capstone Challenge: solving a real world microscopy problem
-- Bonus session: Images in medicine
+- Bonus session: Preparing images for machine learning (affines, other transformations and more)
