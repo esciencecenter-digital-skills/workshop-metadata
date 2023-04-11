@@ -7,18 +7,18 @@ calendar, so you can take full advantage of the workshop.
 
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 1. June 5th</h3>
+    <h3>Day 1. </h3>
     <table class="table table-striped">
-      <tr> <td>9:00</td>  <td>Welcome and Introduction (Makeda)</td> </tr>
-      <tr> <td>9:20</td>  <td>Image Basics(Makeda)</td></tr>
-      <tr> <td>9:40</td>  <td>Working with the skimage library (Makeda)</td> </tr>
+      <tr> <td>9:00</td>  <td>Welcome and Introduction </td> </tr>
+      <tr> <td>9:20</td>  <td>Image Basics</td></tr>
+      <tr> <td>9:40</td>  <td>Working with the skimage library </td> </tr>
       <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
-      <tr> <td>10:40</td>  <td>Drawing + (Djura)</td> </tr>
-      <tr> <td>11:40</td>  <td>Bitwise Operations (Djura)</td> </tr>
+      <tr> <td>10:40</td>  <td>Drawing + </td> </tr>
+      <tr> <td>11:40</td>  <td>Bitwise Operations </td> </tr>
       <tr> <td>12:30</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:30</td>  <td>Creating Histograms (Djura)</td> </tr>
-      <tr> <td>14:30</td>  <td>Summary Lecture (Makeda)</td> </tr>
-      <tr> <td>15:30</td>  <td>Optional extra tutoring (Makeda)</td> </tr>
+      <tr> <td>13:30</td>  <td>Creating Histograms </td> </tr>
+      <tr> <td>14:30</td>  <td>Summary Lecture </td> </tr>
+      <tr> <td>15:30</td>  <td>Optional extra tutoring </td> </tr>
       <tr> <td>16:30</td>  <td>END day 1</td> </tr>
     </table>
   </div>
@@ -26,16 +26,16 @@ calendar, so you can take full advantage of the workshop.
 
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 2. June 6th</h3>
+    <h3>Day 2. </h3>
     <table class="table table-striped">
-      <tr> <td>9:00</td>  <td>Welcome back  (Makeda)</td> </tr>
-      <tr> <td>9:10</td>  <td>Blurring Images (Giulia)</td></tr>
+      <tr> <td>9:00</td>  <td>Welcome back  </td> </tr>
+      <tr> <td>9:10</td>  <td>Blurring Images </td></tr>
       <tr> <td>10:00</td>  <td>Coffee break</td> </tr>
-      <tr> <td>10:15</td>  <td>Thresholding Images (Giulia)</td> </tr>
-      <tr> <td>11:15</td>  <td>Connected Component Analysis (Dani)</td> </tr>
+      <tr> <td>10:15</td>  <td>Thresholding Images </td> </tr>
+      <tr> <td>11:15</td>  <td>Connected Component Analysis </td> </tr>
       <tr> <td>12:15</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:20</td>  <td>Optional Challenge (Dani)</td> </tr>
-      <tr> <td>14:30</td>  <td>Bonus lecture: transformations, affine (Makeda)</td> </tr>
+      <tr> <td>13:20</td>  <td>Optional Challenge </td> </tr>
+      <tr> <td>14:30</td>  <td>Bonus lecture: transformations, affine </td> </tr>
       <tr> <td>15:30</td>  <td>Feedback collection</td> </tr>
       <tr> <td>16:00</td>  <td>END</td> </tr>
     </table>
