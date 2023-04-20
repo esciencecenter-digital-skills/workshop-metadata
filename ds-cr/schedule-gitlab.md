@@ -17,11 +17,11 @@
     <table class="table table-striped">
       <tr> <td>09:00</td>  <td>Welcome and icebreaker</td> </tr>
       <tr> <td>09:15</td>  <td>Workshop Introduction</td> </tr>
-      <tr> <td>09:30</td>  <td>Collaboration with Git and Gitlab</td> </tr>
+      <tr> <td>09:30</td>  <td>Collaboration with Git and GitLab</td> </tr>
       <tr> <td>10:15</td>  <td>Coffee break</td> </tr>
-      <tr> <td>10:30</td>  <td>Collaboration with Git and Gitlab</td> </tr>
+      <tr> <td>10:30</td>  <td>Collaboration with Git and GitLab</td> </tr>
       <tr> <td>11:30</td>  <td>Coffee break</td> </tr>
-      <tr> <td>11:45</td>  <td>Collaboration with Git and Gitlab</td> </tr>
+      <tr> <td>11:45</td>  <td>Collaboration with Git and GitLab</td> </tr>
       <tr> <td>12:45</td>  <td>Wrap-up</td> </tr>
       <tr> <td>13:00</td>  <td>END</td> </tr>
     </table>
