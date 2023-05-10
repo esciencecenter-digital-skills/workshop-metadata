@@ -10,11 +10,13 @@
 <li>jupyterlab</li>
   </ul>
 
-  <p>In addition, we recommend an account on GitHub. [Create one here](https://github.com/signup).
-If you clone the [image-processing repository](https://github.com/esciencecenter-digital-skills/image-processing) at esciencecenter-digital-skills, then you will have all the data for the class already.
+  <p>In addition, we recommend an account on GitHub. <a href="https://github.com/signup">Create one here</a>.
   </p>
   <p>
-To clone the repository  you can navigate in your terminal to the directory you want the repository in, then use the following command in a terminal 
-`git clone https://github.com/esciencecenter-digital-skills/image-processing.git`
+If you clone the <a href="https://github.com/esciencecenter-digital-skills/image-processing">image-processing repository </a>, then you will have all the data for the class already.
+  </p>
+  <p>
+To clone the repository you can navigate in your terminal to the directory you want the repository in, then use the following command in a terminal: 
+    <code>git clone https://github.com/esciencecenter-digital-skills/image-processing.git </code>
 After this command the repository should be built in your current working directory.
   </p>
