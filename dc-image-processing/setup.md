@@ -1,7 +1,7 @@
 <p>This lesson assumes you have more or less current versions of the following installed on your computer:<p>
 <ul>
-  <li> [Python](https://www.python.org/downloads/release/python-370/) in 3.7 or higher </li>
-
+  <li> <a href="https://www.python.org/downloads/release/python-370/">Python</a> version 3.7 or higher </li>
+</ul>
 <p>You will also need to install the following packages:</p>
 <ul>
   <li>ipyml</li>
@@ -9,8 +9,8 @@
 <li> matplotlib</li>
 <li>jupyterlab</li>
   </ul>
-<p>
-In addition, we recommend an account on GitHub. [Create one here](https://github.com/signup).
+
+  <p>In addition, we recommend an account on GitHub. [Create one here](https://github.com/signup).
 If you clone the [image-processing repository](https://github.com/esciencecenter-digital-skills/image-processing) at esciencecenter-digital-skills, then you will have all the data for the class already.
   </p>
   <p>
