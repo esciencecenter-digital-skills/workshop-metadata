@@ -20,7 +20,7 @@
     </table>
   </div>
   <div class="col-md-6">
-    <h3>Day 2 -- Morning</h3>
+    <h3>Day 2</h3>
     <table class="table table-striped">
       <tr> <td>09:30</td>  <td>Welcome, icebreaker and recap</td> </tr>
       <tr> <td>09:45</td>  <td>Threads and processes</td> </tr>
