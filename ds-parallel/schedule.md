@@ -1,6 +1,6 @@
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 1</h3>
+    <h3>Day 1 -- Morning</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td>  <td>Welcome and icebreaker</td> </tr>
       <tr> <td>09:15</td>  <td>Introduction</td></tr>
@@ -13,7 +13,7 @@
     </table>
   </div>
   <div class="col-md-6">
-    <h3>Day 2</h3>
+    <h3>Day 1 -- Afternoon</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td>  <td>Welcome,icebreaker and recap</td> </tr>
       <tr> <td>09:15</td>  <td>Computing Pi</td> </tr>
@@ -26,7 +26,7 @@
     </table>
   </div>
   <div class="col-md-6">
-    <h3>Day 3</h3>
+    <h3>Day 2 -- Morning</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td>  <td>Welcome, icebreaker and recap</td> </tr>
       <tr> <td>09:15</td>  <td>Threads and processes</td> </tr>
@@ -39,7 +39,7 @@
     </table>
   </div>
   <div class="col-md-6">
-    <h3>Day 4</h3>
+    <h3>Day 2 -- Afternoon</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td>  <td>Welcome, icebreaker and recap</td> </tr>
       <tr> <td>09:15</td>  <td>Introduction to coroutines and asyncio</td> </tr>
