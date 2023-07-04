@@ -30,3 +30,6 @@ To attend this course you should meet the following criteria. You can also test 
 * Shell
    * You have experience using a command line interface, such as Bash, to navigate a UNIX-style file system and run commands with arguments
    * Ideally, you have experience redirecting inputs and outputs from a command
+
+**Instead of this workshop you could also consider:**
+If you find the topics that are covered in this workshop slightly too advanced, you could consider joining the 'Good Practices in Research Software Development' workshop. That workshop has a similar focus, but is targeted to a slightly less advanced audience. For example, there is an optional introduction to git. Checkout our [upcoming workshops](https://www.esciencecenter.nl/events/?f=workshops) for more information.
