@@ -8,11 +8,11 @@ calendar, so you can take full advantage of the workshop.
     <h3>Week 1</h3>
     <table class="table table-striped">
       <tr> <td>13:00</td> <td>Welcome and icebreaker </td> </tr>
-      <tr> <td>13:15</td> <td>Introduction, Accessing packages</td> </tr>
+      <tr> <td>13:15</td> <td>Introduction, Accessing packages, Getting started</td> </tr>
       <tr> <td>14:15</td> <td>Coffee break</td> </tr>
-      <tr> <td>14:30</td> <td>Getting started, Writing our own functions</td> </tr>
+      <tr> <td>14:30</td> <td>Writing our own functions, Licenses</td> </tr>
       <tr> <td>15:30</td> <td>Coffee break</td> </tr>
-      <tr> <td>15:45</td> <td>Writing our own functions, Licenses</td> </tr>
+      <tr> <td>15:45</td> <td>Data</td> </tr>
       <tr> <td>16:45</td> <td>Wrap-up</td> </tr>
       <tr> <td>17:00</td> <td>END</td> </tr>
     </table>
@@ -36,9 +36,9 @@ calendar, so you can take full advantage of the workshop.
       <tr> <td>13:00</td> <td>Welcome and icebreaker</td> </tr>
       <tr> <td>13:15</td> <td>Recap homework & Lessons learned</td> </tr>
       <tr> <td>14:15</td> <td>Coffee break</td> </tr>
-      <tr> <td>14:30</td> <td>Dependencies, Data</td> </tr>
+      <tr> <td>14:30</td> <td>Dependencies</td> </tr>
       <tr> <td>15:30</td> <td>Coffee break</td> </tr>
-      <tr> <td>15:45</td> <td>Documenting your package</td> </tr>
+      <tr> <td>15:45</td> <td>Documenting your package, Vignettes</td> </tr>
       <tr> <td>16:45</td> <td>Wrap-up</td> </tr>
       <tr> <td>17:00</td> <td>END</td> </tr>
     </table>
