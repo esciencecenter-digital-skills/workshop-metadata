@@ -30,6 +30,8 @@ $ library(roxygen2)
 ~~~
 {: .language-r}
 
+Please contact us in advance if you are experiencing problems.
+
 ### GitHub account
 
 You will need an account on GitHub. [Create one here](https://github.com/signup).
@@ -41,5 +43,3 @@ shareable R package. You are encouraged to bring your own project, though we
 will have a toy project to use if you are unable to. Packages are based around
 functions, so it is important that you know how to write functions, and that at
 least a single function is present in your script.
-
-Please contact us in advance if you are experiencing problems.
