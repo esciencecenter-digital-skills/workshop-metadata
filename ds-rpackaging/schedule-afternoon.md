@@ -1,4 +1,4 @@
-This workshop is scheduled on four separate days. This allows you to work on
+This workshop is scheduled on four separate days over four weeks. This allows you to work on
 your package in between the sessions, implementing the lessons you learned
 during our meetings together. Please schedule dedicated work time in your
 calendar, so you can take full advantage of the workshop.
