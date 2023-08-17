@@ -1,9 +1,12 @@
-This lesson assumes you have current versions of the following installed on your computer:
+### R software and IDE
+
+For this workshop, you will need to install the following software:
 
 1. the [R software](https://cran.r-project.org/mirrors.html) itself, and
 2. [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/#download).
+3. (Windows users only) the packaging toolkit [Rtools](https://cran.r-project.org/bin/windows/Rtools/).
 
-In addition, you will need an account on GitHub. [Create one here](https://github.com/signup).
+### R packages
 
 You will also need to install the following packages:
 
@@ -28,6 +31,12 @@ $ library(roxygen2)
 {: .language-r}
 
 Please contact us in advance if you are experiencing problems.
+
+### GitHub account
+
+You will need an account on GitHub. [Create one here](https://github.com/signup).
+
+### Preparation and prior knowledge
 
 During the workshop, we will take an R script, and transform it into a
 shareable R package. You are encouraged to bring your own project, though we
