@@ -12,6 +12,7 @@
 - [Documentation on Keras metrics](https://keras.io/api/metrics/)
 - [Documentaion on the Keras batch_normalization layer](https://keras.io/api/layers/normalization_layers/batch_normalization/)
 - [Transfer learning in Keras](https://keras.io/guides/transfer_learning/)
+- [online learning](https://medium.com/value-stream-design/online-machine-learning-515556ff72c5)
 - ['Machine learning yearning' by Andrew Ng](https://github.com/ajaymache/machine-learning-yearning). Small one-page practical tips, about real-world machine learning setting that you often don't learn about in courses. For example: 'How to decide how to include inconsistent data?'.
 - [MIT lecture about neurons, layers, and bias](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=13&ab_channel=AlexanderAmini)
 - [MIT lecture on convolutional networks](https://www.youtube.com/watch?v=iaSUYvmCekI&ab_channel=AlexanderAmini)
@@ -27,6 +28,16 @@
 - [ReLU vs Sigmoid](https://medium.com/geekculture/relu-vs-sigmoid-5de5ff756d93)
 - [Batch size - an experiment](https://androidkt.com/ideal-batch-size-for-the-keras-neural-network/)
 - [Hyperparameter tuning in tensorboard](https://www.tensorflow.org/tensorboard/hyperparameter_tuning_with_hparams)
+- [How to choose loss functions?](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
+- [How to choose an optimization algorithm?](https://machinelearningmastery.com/tour-of-optimization-algorithms/)
+- [What is a baseline?](https://machinelearningmastery.com/how-to-get-baseline-results-and-why-they-matter/)
 - [Play with convolution filter visually](https://setosa.io/ev/image-kernels/)
 - [Stanford DL course summary](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#)
 - [state-of-the-art models for CIFAR-10 data](https://paperswithcode.com/sota/image-classification-on-cifar-10)
+- [Weights and Biases](gttps://www.wandb.ai)
+- [Hyperparameter search - keras tuner](https://keras.io/keras_tuner/)
+- [CNN explainer](https://poloclub.github.io/cnn-explainer/): A nice interactive visualization of a convulotional neural network.
+- R Libraries:
+    - [Tensorflow for R](https://tensorflow.rstudio.com/)
+    - [torch for R](https://torch.mlverse.org/)
+    - [Keras for R](https://cran.r-project.org/web/packages/keras/vignettes/)
