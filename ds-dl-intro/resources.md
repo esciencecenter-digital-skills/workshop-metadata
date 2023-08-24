@@ -34,7 +34,7 @@
 - [Play with convolution filter visually](https://setosa.io/ev/image-kernels/)
 - [Stanford DL course summary](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#)
 - [state-of-the-art models for CIFAR-10 data](https://paperswithcode.com/sota/image-classification-on-cifar-10)
-- [Weights and Biases](gttps://www.wandb.ai)
+- [Weights and Biases](https://www.wandb.ai)
 - [Hyperparameter search - keras tuner](https://keras.io/keras_tuner/)
 - [CNN explainer](https://poloclub.github.io/cnn-explainer/): A nice interactive visualization of a convulotional neural network.
 - R Libraries:
