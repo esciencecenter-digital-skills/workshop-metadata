@@ -1,1 +1,1 @@
-https://github.com/INRIA/scikit-learn-mooc
+https://inria.github.io/scikit-learn-mooc/

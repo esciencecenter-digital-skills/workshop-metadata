@@ -1,1 +1,1 @@
-https://github.com/carpentries-incubator/lesson-gpu-programming
+https://carpentries-incubator.github.io/lesson-gpu-programming/
