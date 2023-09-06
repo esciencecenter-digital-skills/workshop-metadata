@@ -1,1 +1,1 @@
-https://github.com/esciencecenter-digital-skills/image-processing
+https://datacarpentry.org/image-processing/

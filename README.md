@@ -19,6 +19,6 @@ curriculum name e.g. "ds-parallel". Then eidt the files:
 -    list-of-schedules.md: There are two lists of schedules: online and in-person. Choose one schedule from the lists or add your own schedule to the lists. Then, copy-paste the desired schedule to the file `schedule.md`.
 -    schedule.md: the times and what you will be teaching at each day in a time-table format.
 -    title.md: the title of the workshop.
--    lesson-url.md: the link of the lesson GitHub repository, not the github.io page.
+-    lesson-url.md: the link of the lesson website, not the Github repo
 -    resources.md: a list of useful resources for workshop participants
 -    tweets.md: a collection of tweets to promote the workshop
