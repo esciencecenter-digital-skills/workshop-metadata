@@ -4,8 +4,8 @@ Please delete the contents of this file and fill it with your own
 
 ## Expected contents
 
-A link to the lesson GitHub repository. This is not the link to github.io page.
+A link to the lesson website. This is not the link to the Github repository of the website.
 
 ## Example
 
-https://github.com/esciencecenter-digital-skills/lesson-parallel-python
+https://carpentries-incubator.github.io/lesson-parallel-python/

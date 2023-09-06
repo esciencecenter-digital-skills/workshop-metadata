@@ -1,1 +1,1 @@
-https://github.com/carpentries-incubator/python-intermediate-development
+https://carpentries-incubator.github.io/python-intermediate-development/

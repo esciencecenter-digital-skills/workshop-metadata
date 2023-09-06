@@ -1,1 +1,1 @@
-https://github.com/datacarpentry/python-ecology-lesson
+https://datacarpentry.org/python-ecology-lesson/

@@ -1,1 +1,1 @@
-https://github.com/esciencecenter-digital-skills/docker-introduction
+https://esciencecenter-digital-skills.github.io/docker-introduction/

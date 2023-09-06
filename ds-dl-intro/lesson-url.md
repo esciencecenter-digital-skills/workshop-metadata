@@ -1,1 +1,1 @@
-https://github.com/carpentries-incubator/deep-learning-intro
+https://carpentries-incubator.github.io/deep-learning-intro/
