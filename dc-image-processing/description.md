@@ -1,4 +1,4 @@
-This workshop will teach you to about digital images and how to work with them with code. 
+This is a Data Carpentry workshop that will teach you to about digital images and how to analyze them using code. 
 The workshop will cover the basics of digital images, manipulation with Python and the scikit-image (skimage) library. Both deeper image understanding and automation of image processing tasks will be covered.
 
 By the end of the workshop you should be able to enhance your research with images be they from microscopy, radiology or another discipline.
