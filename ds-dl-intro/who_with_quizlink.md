@@ -3,13 +3,15 @@ This course is for you if:
 You have been using machine learning but are starting to dive in to the field of deep learning and you want to learn:
 - What is deep learning?
 - How to structure a deep learning project?
-- What are the different techniques used in deep learning?
+- How to prepare input data for use for deep learning?
+- How to design and train a basic neural network using Keras?
+- How to evaluate a neural network?
 - How to address common pitfalls in a deep learning workflow?
 
 This course assumes that you are currently comfortable with:
 - Basic Python programming skills and familiarity with the Pandas package.
-- Basic knowledge on Machine learning, including the following concepts: Data cleaning, type of problems (regression, classification), metrics (accuracy, root-mean-square-error, etc.).
-* please note that some relevant concepts will also be covered during the course.
+- Basic knowledge on machine learning, including the following concepts: data cleaning, type of problems (regression, classification), metrics (accuracy, root-mean-square-error, etc.).
+* please note that some of the traditional machine learning concepts will be covered during the course, since they are also relevant for deep learning.
 
 This course is not for you if:
 
@@ -25,7 +27,7 @@ Please contact training@esciencecenter.nl if you have any questions about the pr
 This course does not cover the following topics (in detail):
 - transfer learning
 - hyper-parameter search
-- Advanced deep learning topics such as few-shot learning, large-language model, etc.
+- advanced deep learning topics such as few-shot learning, large-language model, etc.
 * For a complete list of the topics covered in the course, please refer to the syllabus.
 
 Note that this workshop is an introduction into deep learning. 
