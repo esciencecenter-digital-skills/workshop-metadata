@@ -78,8 +78,8 @@
       <tr> <td>14:00</td>  <td>Parallel raster computations using Dask</td> </tr>
       <tr> <td>15:00</td>  <td>Coffee break</td> </tr>
       <tr> <td>15:15</td>  <td>Parallel raster computations using Dask</td> </tr>
-      <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
-      <tr> <td>16:30</td>  <td>END</td> </tr>
+      <tr> <td>16:15</td>  <td>Post-workshop survey</td> </tr>
+      <tr> <td>16:30</td>  <td>Drinks</td> </tr>
     </table>
   </div>
 </div>
