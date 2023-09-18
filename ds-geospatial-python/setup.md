@@ -1,5 +1,5 @@
 <!-- If the setup instructions need to change, please file an issue here: https://github.com/carpentries-incubator/geospatial-python/issues -->
-To be able to follow this workshop, a few setup steps are required. Please follow the [setup instructions](https://carpentries-incubator.github.io/geospatial-python/setup.html) in preparation for the workshop.
+To be able to follow this workshop, a few setup steps are required. Please follow the [setup instructions](https://carpentries-incubator.github.io/geospatial-python/index.html) in preparation for the workshop.
 
 This instruction will help you to:
  - download the data required in this workshop
