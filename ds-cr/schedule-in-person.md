@@ -33,7 +33,7 @@
       <tr> <td>14:15</td>  <td>Coffee break</td> </tr>
       <tr> <td>14:30</td>  <td>Introduction to Continuous Integration</td> </tr>
       <tr> <td>15:15</td>  <td>Coffee break </td> </tr>
-      <tr> <td>15:30</td>  <td>More advanced testing </td> </tr>
+      <tr> <td>15:30</td>  <td>Introduction to packaging </td> </tr>
       <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
       <tr> <td>16:30</td>  <td>END</td> </tr>
     </table>
