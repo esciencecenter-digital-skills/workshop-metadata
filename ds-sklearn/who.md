@@ -9,6 +9,8 @@ This course is **not** for you if:
 - You already have experience with machine learning or its concepts, this is really an introduction for people that have never done machine learning or only just started but need more guidance.
 - You want to get a solid mathematical understanding of machine learning theory. This course aims to quickly get participants comfortable applying machine learning in practice, we therefore only cover the basis of theoretical concepts without going into depth.
 - You want to learn about deep learning
+- You want to learn about data preprocessing, e.g. data cleaning, handling missing values. We only cover the basics of data preprocessing that are needed to setup a machine learning pipeline.
+
 
 
 Also have a look at the syllabus to see what topics we will cover. 
