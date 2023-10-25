@@ -5,8 +5,8 @@ This course is for you if:
 - You want to learn how to setup a full machine learning pipeline in Python for various machine learning tasks.
 - You want to get an intuition of basic machine learning concepts, such as train-test data splits, model training and evaluation, different machine learning algorithms, overfitting/underfitting, bias-variance trade-off.
 
-This course is not for you if:
-- You already have a strong understanding of machine learning, this is really an introduction for people that have never done machine learning.
+This course is **not** for you if:
+- You already have experience with machine learning or its concepts, this is really an introduction for people that have never done machine learning or only just started but need more guidance.
 - You want to get a solid mathematical understanding of machine learning theory. This course aims to quickly get participants comfortable applying machine learning in practice, we therefore only cover the basis of theoretical concepts without going into depth.
 - You want to learn about deep learning
 
