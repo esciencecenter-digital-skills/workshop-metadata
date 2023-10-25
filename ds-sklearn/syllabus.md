@@ -14,6 +14,10 @@ Selecting the best model
 - Validation and learning curves
 - Bias versus variance trade-off
 
+Machine learning algorithms
+- Intuitions on linear models
+- Intuitions on tree-based models
+
 Machine learning best practices
 - Data hygiene
 - Correct evaluation
