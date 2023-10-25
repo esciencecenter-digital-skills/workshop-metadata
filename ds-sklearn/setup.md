@@ -1,1 +1,1 @@
-Please follow [these setup instructions](https://github.com/INRIA/scikit-learn-mooc/blob/main/local-install-instructions.md)
+It is important that you setup everything on your laptop **before the start of the course**. This includes installing a Python environment and downloading the necessary files. Please follow [these setup instructions](https://github.com/INRIA/scikit-learn-mooc/blob/main/local-install-instructions.md). Send us an email if you encounter any problems.
