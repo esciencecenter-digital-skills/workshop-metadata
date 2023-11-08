@@ -1,1 +1,1 @@
-Follow [these setup instructions](https://carpentries-incubator.github.io/python-intermediate-development/setup.html).
+It is important that you setup everything on your laptop before the start of the course. This includes setting up a Command Line Tool, Git, a Python environment, and Integrated Development Environment.. Please follow [these setup instructions](https://carpentries-incubator.github.io/python-intermediate-development/setup.html). Send us an email if you encounter any problems.
