@@ -1,41 +1,21 @@
-<div style="background: red; color: black;">FIXME</div>
-
-Please delete the contents of this file and fill it with your own. You can
-choose one schedule from the lists in
-(list-of-schedules.md)[./list-of-schedules.md] and copy-paste the schedule here.
-
-## Expected contents
-
-The times and what you will be teaching at each day in a time-table format.
-
-## Example of a 2-day workshop schedule
-
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 1</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome and icebreaker </td> </tr>
-      <tr> <td>09:15</td>  <td>Introduction</td> </tr>
-      <tr> <td>09:30</td>  <td>Convolve an image with a kernel on a GPU using CuPy</td> </tr>
-      <tr> <td>10:15</td>  <td>Coffee break</td> </tr>
-      <tr> <td>10:30</td>  <td>Running CPU/GPU agnostic code using CuPy</td> </tr>
-      <tr> <td>11:30</td>  <td>Coffee break</td> </tr>
-      <tr> <td>11:45</td>  <td>Run your Python code on a GPU using Numba</td> </tr>
-      <tr> <td>12:45</td>  <td>Wrap-up</td> </tr>
-      <tr> <td>13:00</td>  <td>END</td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3>Day 2</h3>
-    <table class="table table-striped">
-      <tr> <td>09:00</td>  <td>Welcome and icebreaker</td> </tr>
-      <tr> <td>09:15</td>  <td>Introduction to CUDA</td> </tr>
-      <tr> <td>10:15</td>  <td>Coffee break</td> </tr>
-      <tr> <td>10:30</td>  <td>CUDA memories and their use</td> </tr>
-      <tr> <td>11:30</td>  <td>Coffee break</td> </tr>
-      <tr> <td>11:45</td>  <td>Data sharing and synchronization</td> </tr>
-      <tr> <td>12:45</td>  <td>Wrap-up</td> </tr>
-      <tr> <td>13:00</td>  <td>END</td> </tr>
+      <tr> <td>09:30</td>  <td>👋🏻 General Introduction + eScience Intro </td> </tr>
+      <tr> <td>09:40</td>  <td>Workshop introduction </td> </tr>
+      <tr> <td>09:50</td>  <td>🧊 ⛏️Icebreaker </td> </tr>
+      <tr> <td>10:00</td>  <td>FAIR Software </td> </tr>
+      <tr> <td>10:45</td>  <td>☕️ Coffee break </td> </tr>
+      <tr> <td>11:00</td>  <td>Software Management Plans </td> </tr>
+      <tr> <td>12:00</td>  <td>🍱 Lunch </td> </tr>
+      <tr> <td>13:00</td>  <td>Energizer </td> </tr>
+      <tr> <td>13:05</td>  <td>Software licensing </td> </tr>
+      <tr> <td>14:00</td>  <td>☕️ Coffee break </td> </tr>
+      <tr> <td>14:15</td>  <td>Software publication </td> </tr>
+      <tr> <td>15:15</td>  <td>☕️ Coffee break </td> </tr>
+      <tr> <td>15:30</td>  <td>Software citation </td> </tr>
+      <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>16:30</td>  <td>END</td> </tr>
     </table>
   </div>
 </div>

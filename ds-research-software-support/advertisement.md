@@ -1,10 +1,1 @@
-<div style="background: red; color: black;">FIXME</div>
-
-Please delete the contents of this file and fill it with your own
-
-## Expected contents
-
-Two sentences for an advertisement email
-## Example
-
-Chances are that you **used** _R_ packages before but, did you know you can **write** your own? Even more, did you know that this can be a brilliant idea? Packaging helps you creating a more robust, more reproducible and more enjoyable scientific coding experience. And who knows?, perhaps you'll see your package published in _CRAN_ one day!
+Research software is a topic of growing interest for many researchers. While supporting researchers, you can expect more and more software related questions regarding software management plans (SMPs) or how to publish software. As you are probably not developing software (full-time) yourself, this workshop may be a good opportunity for you to improve and test your knowledge around basic concepts of research software and help you to feel more ready for software related questions in the future.
