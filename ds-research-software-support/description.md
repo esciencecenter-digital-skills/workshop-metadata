@@ -12,5 +12,5 @@ The workshop will cover the following key aspects:
 - How is software being developed? What is research software and how much do I need to know?
 - What are Software Management Plans (SMPs) and how can researchers benefit from them? How can I help researchers to fill in SMPs?
 - What is FAIR software, and what do I need to know to support researchers?
-- hat software licenses exist and how do I help researchers to pick the right one?
+- What software licenses exist and how do I help researchers pick the right one?
 - The workshop will cover hands-on exercises and many opportunities to ask questions that are relevant to you, your experience, and your field. 
