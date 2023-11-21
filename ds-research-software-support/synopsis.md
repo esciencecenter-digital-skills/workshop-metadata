@@ -1,11 +1,1 @@
-<div style="background: red; color: black;">FIXME</div>
-
-Please delete the contents of this file and fill it with your own
-
-## Expected contents
-
-140 characters for the Eventbrite registration page.
-
-## Example
-
-This workshop will provide participants with the basics for writing their own packages in R.
+This workshop is tailored for support staff who want to learn more about FAIR software management. 
