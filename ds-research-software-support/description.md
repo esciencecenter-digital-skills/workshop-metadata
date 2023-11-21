@@ -1,11 +1,3 @@
-<div style="background: red; color: black;">FIXME</div>
-Please delete the contents of this file and fill it with your own
-
-## Expected contents
-
-~150 words for on Eventbrite registration page
-## Example
-
 Research software is a topic of growing interest for many researchers. This workshop is tailored for support staff who are already familiar with RDM and the FAIR principles but would like to learn more about how to manage software better. 
 
 The workshop will cover the following key aspects:
