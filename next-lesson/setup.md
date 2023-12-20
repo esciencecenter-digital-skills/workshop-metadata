@@ -6,12 +6,12 @@ below. The setup should cover 3 major platforms: Windows, MacOS and Linux.
 
 ## Expected contents
 
-A list of the requirements **or** only the link to the lesson `setup.md`. (Both
+Detailed setup instructions **or** only the link to the lesson `setup.md`. (Both
 are not supported!)
 
 ## Examples
 
 - For most users we recommend that you use `conda` to install the requirements
   for the workshop.
-
+- It is important that you setup everything on your laptop before the start of the course. This includes installing a Python environment and downloading the necessary files. Please follow (these setup instructions)[link to externally hosted setup instructions]. Send us an email if you encounter any problems.
 - carpentries-incubator/deep-learning-intro/gh-pages/setup.md
