@@ -1,39 +1,56 @@
-## Day 1
-- Introduction
-  - Recall the sort of problems for which Deep Learning is a useful tool
-  - List some of the available tools for Deep Learning
-  - Recall the steps of a Deep Learning workflow
-  - Explain why it is important to test the accuracy of Deep Learning system.
-  - Identify the inputs and outputs of a Deep Learning system.
-  - Test that we've correctly installed the Keras, Seaborn and Sklearn libraries
+<div class="row">
+  <div class="col-md-6">
+    <h3>Day 1 </h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td> <td>Welcome and icebreaker </td> </tr>
+      <tr> <td>09:15</td>  <td>Introduction to Deep Learning </td> </tr>
+      <tr> <td>10:15</td>  <td>Coffee break</td> </tr>
+      <tr> <td>10:30</td>  <td>Introduction to Deep Learning </td> </tr>
+      <tr> <td>11:30</td>  <td>Coffee break</td> </tr>
+      <tr> <td>11:45</td>  <td>Classification by a Neural Network using Keras </td> </tr>
+      <tr> <td>12:45</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>13:00</td>  <td>END</td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 2</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td>  <td>Welcome and icebreaker</td> </tr>
+      <tr> <td>09:15</td>  <td>Classification by a Neural Network using Keras</td> </tr>
+      <tr> <td>10:15</td>  <td>Coffee break</td> </tr>
+      <tr> <td>10:30</td>  <td>Classification by a Neural Network using Keras</td> </tr>
+      <tr> <td>11:30</td>  <td>Coffee break</td> </tr>
+      <tr> <td>11:45</td>  <td>Monitor the training process</td> </tr>
+      <tr> <td>12:45</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>13:00</td>  <td>END</td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 3</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td> <td>Welcome and icebreaker </td> </tr>
+      <tr> <td>09:15</td>  <td>Monitor the training processs </td> </tr>
+      <tr> <td>10:15</td>  <td>Coffee break</td> </tr>
+      <tr> <td>10:30</td>  <td>Monitor the training processs </td> </tr>
+      <tr> <td>11:30</td>  <td>Coffee break </td> </tr>
+      <tr> <td>11:45</td>  <td>Monitor the training processs </td> </tr>
+      <tr> <td>12:45</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>13:00</td>  <td>END</td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 4</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td> <td>Welcome and icebreaker </td> </tr>
+      <tr> <td>09:15</td>  <td>Advanced layer types </td> </tr>
+      <tr> <td>10:15</td>  <td>Coffee break</td> </tr>
+      <tr> <td>10:30</td>  <td>Advanced layer types</td> </tr>
+      <tr> <td>11:30</td>  <td>Coffee break </td> </tr>
+      <tr> <td>11:45</td>  <td>Advanced layer types </td> </tr>
+      <tr> <td>12:30</td>  <td>Wrap-up and post-workshop survey</td> </tr>
+      <tr> <td>13:00</td>  <td>END</td> </tr>
+    </table>
+  </div>
+</div>
 
-## Day 2
-- Classification by a Neural Network using Keras
-  - Use the deep learning workflow to structure the notebook
-  - Explore the dataset using pandas and seaborn
-  - Use one-hot-encoding to prepare data for classification in Keras
-  - Describe a fully connected layer
-  - Implement a fully connected layer with Keras
-  - Use Keras to train a small fully connected network on prepared data
-  - Plot the loss curve of the training process
-  - Use a confusion matrix to measure the trained networks' performance on a test set
-
-## Day 3
-- Monitor the training process
-  - Explain the importance of splitting the training data
-  - Use the data splits to plot the training process
-  - Set the training goal for your deep neural network
-  - Measure the performance of your deep neural network
-  - Interpret the training plots to recognize overfitting
-  - Implement basic strategies to prevent overfitting
-
-
-
-## Day 4
-- Networks are like onions
-  - Understand why convolutional and pooling layers are useful for image data
-  - Use normalization as preparation step for Deep Learning
-  - Implement a convolutional neural network on an image dataset
-  - Plot and interpret the training process
-  - Do a visual inspection of the results of your neural network
-  - Understand strategies to improve your model based on the plots
+<p><b>All times in the schedule are in the CET timezone.</b></p>
