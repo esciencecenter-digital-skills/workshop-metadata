@@ -34,7 +34,7 @@
       <tr> <td>14:30</td>  <td>Break</td></tr>
       <tr> <td>14:40</td>  <td>Advanced layer types</td> </tr>
       <tr> <td>15:30</td>  <td>Break</td></tr>
-      <tr> <td>15:40</td>  <td>Advanced layer types</td> </tr>
+      <tr> <td>15:40</td>  <td>Outlook</td> </tr>
       <tr> <td>16:15</td>  <td>Post-workshop Survey</td> </tr>
       <tr> <td>16:30</td>  <td>Drinks</td> </tr>
     </table>
