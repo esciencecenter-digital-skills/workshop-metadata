@@ -1,1 +1,1 @@
-In these workshops, you learn skills to facilitate open and reproducible research. The workshops focus on best practices to build modular, reusable, maintainable, sustainable, reproducible, testable, and robust software.
+In this workshop, you will learn skills to facilitate open and reproducible research. The workshop focuses on best practices to build modular, reusable, maintainable, sustainable, reproducible, testable, and robust software.

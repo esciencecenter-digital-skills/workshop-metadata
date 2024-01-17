@@ -1,4 +1,4 @@
-Are you familiar with Machine Learning, but intimidated to explore Deep Learning on your own?
+Are you familiar with machine learning, but intimidated to explore deep learning on your own?
 
 On [date] we are hosting a hands-on 'Introduction to Deep Learning' workshop.
 
