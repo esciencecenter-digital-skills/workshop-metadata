@@ -1,7 +1,7 @@
 This course aims to teach a core set of established, intermediate-level software development skills and 
 best practices for working as part of a team in a research environment using Python as an example programming language.
 The core set of skills we teach is a selective set of tried-and-tested collaborative development skills
-that forms a firm foundation for continuing on your learning journey..
+that provides a firm foundation for continuing on your learning journey..
 
 A typical learner for this course may be someone who is working in a research environment, needing to write some code, 
 has gained basic software development skills either by self-learning or attending, e.g., a novice Software Carpentry Python course. 
