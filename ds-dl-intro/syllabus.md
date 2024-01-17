@@ -1,7 +1,7 @@
 Introduction
-- “Recall the sort of problems for which Deep Learning is a useful tool”
-- “List some of the available tools for Deep Learning”
-- “Recall the steps of a Deep Learning workflow”
+- “Recall the sort of problems for which deep learning is a useful tool”
+- “List some of the available tools for deep learning”
+- “Recall the steps of a deep learning workflow”
 - “Identify the inputs and outputs of a deep neural network.”
 - “Explain the operations performed in a single neuron”
 - “Test that you have correctly installed the Keras, Seaborn and Sklearn libraries”
@@ -24,7 +24,7 @@ Monitor the training process
 - “Design a neural network for a regression task”
 - “Measure the performance of your deep neural network”
 - “Interpret the training plots to recognize overfitting”
-- “Use normalization as preparation step for Deep Learning”
+- “Use normalization as preparation step for deep learning”
 - “Implement basic strategies to prevent overfitting”
 
 Advanced layer types
