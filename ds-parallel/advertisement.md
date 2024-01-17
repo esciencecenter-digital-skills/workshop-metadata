@@ -1,1 +1,1 @@
-This is an intermediate level course teaching the basics of parallel programming with Python. You will learn to recognize problems that are suitable for parallel processing and get hands-on experience with optimizing inner loops and abstracting parallelism using Dask, Numba and Asyncio.
+This is an intermediate level course on the basics of parallel programming with Python. You will learn to recognize problems that are suitable for parallel processing and get hands-on experience with optimizing inner loops and abstracting parallelism using Dask, Numba and Asyncio.
