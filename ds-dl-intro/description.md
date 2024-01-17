@@ -1,4 +1,4 @@
-This is a hands-on introduction to the first steps in deep learning, intended for researchers who are familiar with (non-deep) Machine Learning.
+This is a hands-on introduction to the first steps in deep learning, intended for researchers who are familiar with traditional machine learning.
 
 The use of deep learning has seen a sharp increase of popularity and applicability over the last decade. While deep learning can be a useful tool for researchers from a wide range of domains, taking the first steps in the world of deep learning can be somewhat intimidating. This introduction aims to cover the basics of deep learning in a practical and hands-on manner, so that upon completion, you will be able to train your first neural network and understand what next steps to take to improve the model.
 
