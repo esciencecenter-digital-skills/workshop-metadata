@@ -15,5 +15,5 @@
 
 
 Further study
-- [Andrew Ng's Machine Learning Course on Coursera](https://www.coursera.org/specializations/machine-learning-introduction) Really good course! Will give you a deep understanding of machine learning.
+- [Andrew Ng's machine learning course on Coursera](https://www.coursera.org/specializations/machine-learning-introduction) Really good course! Will give you a deep understanding of machine learning.
 - ['Machine learning yearning' by Andrew Ng](https://github.com/ajaymache/machine-learning-yearning). Small one-page practical tips, about real-world machine learning setting that you often don't learn about in courses. For example: 'How to decide how to include inconsistent data?'.

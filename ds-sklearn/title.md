@@ -1,1 +1,1 @@
-Machine learning in Python with scikit-learn
+Machine Learning in Python with Scikit-learn
