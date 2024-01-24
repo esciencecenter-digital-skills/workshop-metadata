@@ -1,6 +1,6 @@
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 1 (optional introduction to git) </h3>
+    <h3>Day 1 </h3>
     <table class="table table-striped">
       <tr> <td>09:00</td> <td>Welcome and icebreaker </td> </tr>
       <tr> <td>09:15</td>  <td>Introduction to version control with Git </td> </tr>
