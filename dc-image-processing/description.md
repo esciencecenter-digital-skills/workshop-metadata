@@ -3,4 +3,4 @@ The workshop will cover the basics of digital images, manipulation with Python a
 
 By the end of the workshop you should be able to enhance your research with images be they from microscopy, radiology or another discipline.
 
-**Notes:** This workshop is scheduled for two days. 
+**Notes:** This workshop is scheduled for four mornings online. 
