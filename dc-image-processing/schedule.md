@@ -27,7 +27,6 @@ calendar, so you can take full advantage of the workshop.
     <h3>Day 2. </h3>
     <table class="table table-striped">
       <tr> <td>9:00</td>  <td>Welcome back  </td> </tr>
-      <div class="row">
       <tr> <td>9:00</td>  <td>Welcome back + questions</td> </tr>
       <tr> <td>9:15</td>  <td>Histograms </td></tr>
       <tr> <td>10:30</td>  <td>Blurring Images</td> </tr>
