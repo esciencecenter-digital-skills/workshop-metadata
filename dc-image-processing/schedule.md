@@ -35,7 +35,7 @@ calendar, so you can take full advantage of the workshop.
       <tr> <td>11:30</td>  <td>Wrap up and summary </td> </tr>
       <tr> <td>11:40</td>  <td>Feedback collection</td> </tr>
       <tr> <td>12:00</td>  <td>Optional extra tutoring </td> </tr>
-      <tr> <td>13:00</td>  <td>END</td> </tr>
+      <tr> <td>13:00</td>  <td>END day 2</td> </tr>
     </table>
   </div>
  
@@ -49,10 +49,12 @@ calendar, so you can take full advantage of the workshop.
       <tr> <td>10:15</td>  <td>Connected Component Analysis </td> </tr>
       <tr> <td>12:20</td>  <td>Optional Challenge Introduction </td> </tr>
       <tr> <td>12:30</td>  <td>Feedback collection</td> </tr>
-      <tr> <td>13:00</td>  <td>END</td> </tr>
+      <tr> <td>13:00</td>  <td>END day 3</td> </tr>
     </table>
   </div>
-  
+
+
+
   <div class="row">
   <div class="col-md-6">
     <h3>Day 4. </h3>
@@ -61,7 +63,7 @@ calendar, so you can take full advantage of the workshop.
       <tr> <td>9:15</td>  <td>Capstone Challenge </td> </tr>
       <tr> <td>11:30</td>  <td>Bonus lecture: transformations, affine </td> </tr>
       <tr> <td>12:30</td>  <td>Feedback collection</td> </tr>
-      <tr> <td>13:00</td>  <td>END</td> </tr>
+      <tr> <td>13:00</td>  <td>END day 4</td> </tr>
     </table>
   </div>
   
