@@ -10,6 +10,7 @@
 ## Modular code
 * [A participant recommended this video](https://www.youtube.com/watch?v=CFRhGnuXG-4) as a motivation to make code more modular
 * [Code smells](https://refactoring.guru/refactoring/smells)
+* [Repo with modular coding solutions](https://github.com/lyashevska/modular-code-dev)
 
 
 ## Documentation
@@ -18,16 +19,25 @@
 * Follow the [coderefinery material from here](https://coderefinery.github.io/documentation/sphinx/) to create sphinx/readthedocs documentation.
 * Checkout [Sphinx autodoc documentation](https://www.sphinx-doc.org/en/master/usage/quickstart.html#autodoc) for autogenerating documentation based on docstrings.
 * [Numpy docstring conventions](https://numpydoc.readthedocs.io/en/latest/format.html)
+* [GitHub's Markdown Syntax/Formatting Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [The four kinds of documentation](https://documentation.divio.com/)
 
 
 ## Testing and Continuous Integration
 * [Pytest `assert` documentation (including how to check for expected exceptions)](https://docs.pytest.org/en/latest/assert.html)
-* [Example github workflow with matrix testing](https://github.com/NLeSC/python-template/blob/main/%7B%7Bcookiecutter.directory_name%7D%7D/.github/workflows/build.yml)
-* Github [documentation](https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration) about Continuous integration
-* [Guide for creating your own github runners](https://github.com/ci-for-research/self-hosted-runners) #GPU.
 * [Python exception/error types](https://docs.python.org/3/library/exceptions.html)
 * [Pytest documentation](https://docs.pytest.org/en/7.1.x/contents.html)
 * [Testing frameworks for Fortran](https://fortranwiki.org/fortran/show/Unit+testing+frameworks)
+* [Pytest parametrize](https://docs.pytest.org/en/6.2.x/parametrize.html)
+* (Advanced) [Hypothesis for property-based testing in Python](https://hypothesis.readthedocs.io/en/latest/quickstart.html#an-example)
+
+## Continuous Integration
+* Github [documentation](https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration) about Continuous integration
+* [Guide for creating your own github runners](https://github.com/ci-for-research/self-hosted-runners) #GPU.
+* [Example github workflow with matrix testing](https://github.com/NLeSC/python-template/blob/main/%7B%7Bcookiecutter.directory_name%7D%7D/.github/workflows/build.yml)
+* [Github secrets](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions)
+* [Learn GithubActions](https://docs.github.com/en/actions/learn-github-actions)
+* [GitHub Marketplace](https://github.com/marketplace?type=actions)
 
 
 ## Other
@@ -37,4 +47,6 @@
 * [Link to the repo with testing and documentation set up:](http://github.com/loostrum/temperature_plotting/actions)
 * [Five recommendations for FAIR software](https://fair-software.nl/)
 * [Choose an open source license](https://choosealicense.com/)
+* [Learn more about object-oriented programming](https://carpentries-incubator.github.io/python-intermediate-development/35-object-oriented-programming/index.html)
+* [Fancy customization of your terminal with oh-my-zsh](https://ohmyz.sh/)
 
