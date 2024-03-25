@@ -2,7 +2,7 @@ Setting up Environment For Collaborative Code Development
 * Introduction to Our Software Project
 * Virtual Environments For Software Development
 * Integrated Software Development Environments
-* Collaborative Software Development Using Git and gitHub
+* Collaborative Software Development Using Git and GitHub
 * Python Code Style Conventions
 * Verifying Code Style Using Linters
 
