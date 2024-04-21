@@ -19,3 +19,8 @@
 * The python import system 
     * [Documentation](https://docs.python.org/3/reference/import.html)
     * [PyCon talk](https://www.youtube.com/watch?v=bGYZEKstQuQ)
+* [Github badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
+
+
+### Fun
+* Good reference to keep your humor up: https://xkcd.com/
