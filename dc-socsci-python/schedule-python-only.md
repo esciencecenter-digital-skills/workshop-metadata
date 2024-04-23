@@ -28,39 +28,3 @@
 </div>
 
 <p><b>All times in the schedule are in the CE(S)T timezone.</b></p>
-
-
-
-09:00
-Welcome and introduction
-09:15
-Introduction to Python and Python basics
-10:15
-Coffee break
-10:30
-Python control structures
-11:30
-Coffee break
-11:45
-Creating reusable code
-12:45
-Wrap-up
-13:00
-END
-Day 2: 4th of June
-09:00
-Recap of Day 1
-09:15
-Reading data from a file using Pandas
-10:15
-Coffee break
-10:30
-Extracting row and columns and data aggregation using Pandas
-11:30
-Coffee break
-11:45
-Data visualization using Matplotlib
-12:45
-Wrap-up
-13:00
-END
