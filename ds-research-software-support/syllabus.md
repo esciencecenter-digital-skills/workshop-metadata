@@ -1,5 +1,7 @@
+- Research Software
 - FAIR software
 - Software Management Plans
 - Software Licensing
 - Software Publication
 - Software Citation
+- Software Testing
