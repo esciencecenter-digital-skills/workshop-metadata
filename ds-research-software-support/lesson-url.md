@@ -1,1 +1,1 @@
-https://esciencecenter-digital-skills.github.io/software-support-essentials/
+https://esciencecenter-digital-skills.github.io/research-software-support/
