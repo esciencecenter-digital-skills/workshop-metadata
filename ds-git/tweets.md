@@ -1,10 +1,10 @@
 1.
-Do you want to learn how to use git? Join our workshop and learn how the basics of git and GitHub: [link]
+Are you looking to keep your code neatly organized and securely backed up? Join our workshop and learn how to use git and GitHub: [link]
 
 2.
-Do you want to more easily collaborate with others on your research software project? During our workshop on [date] 
+Do you want to collaborate more smoothly with your colleagues on coding projects? During our workshop on [date] 
 you can learn about collaboration with git and GitHub: [link]
 
 3.
-Are you a researcher looking to take your collaboration on software to the next level? 
+Interested in making your scripts reusable and easily shareable?
 Join our workshop to learn about effective collaboration with git and GitHub: [link]
