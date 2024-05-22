@@ -5,7 +5,7 @@ Participants must work on a computer with a Mac, Linux, or Windows operating sys
 ### Software
 
 To participate in this workshop, you will need to prepare the following (if you haven't already):
-- Install Shell and Git. Please refer to [this page](https://coderefinery.github.io/installation/shell-and-git/) for installation instructions.
+- Install Shell and Git. Please refer to [this page](https://coderefinery.github.io/installation/git-in-terminal/#installation) for installation instructions.
 - Create a GitHub account. Please refer to [this page](https://coderefinery.github.io/installation/github/) for instructions.
 - Set up an SSH connection to GitHub. Please refer to [this page](https://coderefinery.github.io/installation/ssh/) for instructions.
 - Install Miniconda. Please refer to [this page](https://coderefinery.github.io/installation/conda/) for instructions.
@@ -13,7 +13,7 @@ To participate in this workshop, you will need to prepare the following (if you 
 
 ### To confirm that everything works
 
-You should now be able to open [a terminal window](https://swcarpentry.github.io/shell-novice/setup.html) and execute the following commands:
+You should now be able to open [a terminal window](https://swcarpentry.github.io/shell-novice/#open-a-new-shell) and execute the following commands:
 
 #### Git
 ```
