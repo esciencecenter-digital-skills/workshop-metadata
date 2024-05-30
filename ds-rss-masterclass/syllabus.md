@@ -1,0 +1,7 @@
+- Research Software
+- FAIR software
+- Software Management Plans
+- Software Licensing
+- Good Practices in Software Development
+- Software Publication
+- Software Citation
