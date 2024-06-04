@@ -1,13 +1,13 @@
 ### Computer
 
-Participants must work on a computer with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) on which they have administrative privileges.
+Participants must work on a computer with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) on which they have administrative privileges. 
 
 ### Software
 
 To participate in this workshop, you will need to prepare the following (if you haven't already):
-- Install Shell and Git. Please refer to [this page](https://coderefinery.github.io/installation/git-in-terminal/#installation)) for installation instructions.
-- Create a GitLab account. [You can sign up here](https://gitlab.com/users/sign_up).
-- Set up an SSH connection to GitLab (ED25519 preferred). Please refer to [this page](https://docs.gitlab.com/ee/user/ssh.html) for instructions.
+- Install Shell and Git. Please refer to [this page](https://coderefinery.github.io/installation/git-in-terminal/#installation) for installation instructions.
+- Make sure you have a working GitLab account on the TNO GitLab instance.
+- Set up an SSH connection to GitLab. Please refer to [this page](https://docs.gitlab.com/ee/user/ssh.html) for instructions.
 - Install Miniconda. Please refer to [this page](https://coderefinery.github.io/installation/conda/) for instructions.
 - Create a Conda environment for the workshop. Please refer to [this page](https://coderefinery.github.io/installation/conda-environment/) for instructions.
 
@@ -24,13 +24,13 @@ returning (something similar to):
 git version 2.37.1 (Apple Git-137.1)
 ```
 
-#### GitLab account & SSH connection
+#### Github account & SSH connection 
 ```
-ssh git@gitlab.com
+ssh -T git@gitlab.example.com
 ```
 returning (something similar to):
 ```
-Welcome to GitLab, [username]!
+Hi [username]! You've successfully authenticated, but GitLab does not provide shell access.
 Connection to gitlab.com closed.
 ```
 
@@ -62,5 +62,4 @@ sphinx-build 4.4.0
 ```
 
 #### If something does not work:
-Follow the corresponding setup instructions. If you still need help, come to our dedicated setup session.
-
+Follow the corresponding setup instructions. If you still need help, send us an email at training@esciencecenter.nl
