@@ -1,1 +1,0 @@
-https://esciencecenter-digital-skills.github.io/research-software-support/
