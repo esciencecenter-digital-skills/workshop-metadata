@@ -1,3 +1,5 @@
+[![Check Links](https://github.com/esciencecenter-digital-skills/workshop-metadata/actions/workflows/links.yml/badge.svg)](https://github.com/esciencecenter-digital-skills/workshop-metadata/actions/workflows/links.yml)
+
 # Workshop metadata
 
 A place to gather metadata (audience, prerequisites, workshop descriptions) for
