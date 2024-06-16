@@ -31,7 +31,7 @@
       <tr> <td>10:45</td>  <td>Introduction to testing </td> </tr>
       <tr> <td>11:30</td>  <td>Coffee break</td> </tr>
       <tr> <td>11:45</td>  <td>Introduction to testing </td> </tr>
-      <tr> <td>11:45</td>  <td>Code style conventions </td> </tr>
+      <tr> <td>12:15</td>  <td>Code style conventions </td> </tr>
       <tr> <td>12:30</td>  <td>Lunch Break</td> </tr>
       <tr> <td>13:30</td>  <td>Linting </td> </tr>
       <tr> <td>14:15</td>  <td>Coffee break</td> </tr>
