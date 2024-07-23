@@ -28,6 +28,8 @@
       <tr> <td>13:00</td>  <td>END</td> </tr>
     </table>
    </div>
+  </div>
+<div class="row">  
    <div class="col-md-6">
     <h3>Day 3</h3>
     <table class="table table-striped">
@@ -54,6 +56,8 @@
       <tr> <td>13:00</td>  <td>END</td> </tr>
     </table>
   </div>
+</div>
+<div class="row">  
   <div class="col-md-6">
     <h3>Day 5</h3>
     <table class="table table-striped">
@@ -67,5 +71,4 @@
       <tr> <td>13:00</td>  <td>END</td> </tr>
     </table>
   </div>
-</div>
 </div>
