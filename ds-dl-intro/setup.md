@@ -3,4 +3,4 @@ Please follow [these setup instructions](https://carpentries-incubator.github.io
 
 Make sure to download the required datasets as well:
 - [Weather dataset](https://zenodo.org/record/5071376/files/weather_prediction_dataset_light.csv?download=1)
-- [BBQ labels](https://zenodo.org/record/4980359/files/weather_prediction_bbq_labels.csv?download=1)
+- [Dollar street dataset (4 files in total)](https://zenodo.org/api/records/10970014/files-archive)
