@@ -1,1 +1,1 @@
-https://esciencecenter-digital-skills.github.io/medical-image-processing/
+https://carpentries-incubator.github.io/lesson-parallel-python/

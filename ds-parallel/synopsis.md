@@ -1,1 +1,1 @@
-This lesson provides a comprehensive introduction to computational techniques for analyzing medical images using Python, focusing on practical applications with scikit-image, nibabel, SimpleITK, and pydicom.
+Parallel Programming in Python

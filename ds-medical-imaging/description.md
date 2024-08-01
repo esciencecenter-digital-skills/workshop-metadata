@@ -1,13 +1,3 @@
-<div style="background: red; color: black;">FIXME</div>
-Please delete the contents of this file and fill it with your own
+Medical image analysis has become an essential tool in clinical research, enabling scientists to extract valuable insights from complex imaging data. This course is designed to enhance your computational skills in medical imaging, leveraging the power of Python to address advanced research questions. You already possess foundational skills in Python, and basic image processing, and this course will build on that knowledge to help you conduct sophisticated analyses with medical images.
 
-## Expected contents
-
-~150 words for on Eventbrite registration page
-## Example
-
-This workshop will provide you with the basics for writing your own packages in R.
-
-R packages are no more and no less than a standard way of structuring your work. You'll have a folder for code, a folder for tests, a folder for data, a folder for documents, and so on. The standardization makes packages easily installable and shareable.
-
-Even if you are not planning to publish your package, structuring your research as one is also a very good idea. It enforces, in a relatively effortless manner, the implementation of software development best practices. This will lead to a safer, more robust, more manageable and more enjoyable working experience.
+The course begins with an overview of medical imaging and progresses to practical techniques for image processing using libraries like scikit-image, pydicom, and SimpleITK. You will then dive into feature extraction, machine learning applications, and statistical methods for analyzing anatomical differences. By the end of the course, you will have a comprehensive understanding of how to apply computational techniques to medical imaging research, enhancing your ability to conduct impactful studies and contribute to the advancement of clinical knowledge.

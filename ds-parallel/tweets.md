@@ -1,8 +1,11 @@
 1.
-Ready to enhance your research with medical image analysis? Join our interactive course on [date] and master Python tools like scikit-image, nibabel, SimpleITK, and pydicom for advanced imaging techniques: [link]
+Do you struggle with your Python code performance, but don’t know how to optimise it? 
+Join our Parallel Programming workshop on [date]  and learn how to run Python code in multiple cores : [link]
 
 2.
-Unlock the power of Python for medical image analysis! In our upcoming lesson, you’ll learn to tackle complex research questions using scikit-image, nibabel, and more. Don’t miss out—register here: [link]
+Learn how to make your Python code perform faster during our interactive Parallel Programming workshop, 
+and solve practical problems using Dask, Numba, and Snakemake: [link]
 
 3.
-Curious about analyzing medical images with Python? Our course on [date] will guide you through practical applications with scikit-image, SimpleITK, and pydicom. Dive into the world of medical imaging: [link]
+Do you want your Python code to run as fast as C/C++? During our Parallel Programming workshop on [date]  
+you can learn the basic principles of parallel programming by coding along your instructors: [link] 

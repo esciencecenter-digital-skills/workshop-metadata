@@ -1,15 +1,6 @@
-<div style="background: red; color: black;">FIXME</div>
-
-Please delete the contents of this file and fill it with your own
-
-## Expected contents
-A clear description of prerequisites for taking this course
-
-## Example
-
-The participants should:
-- Be familiar with _R_ and _RStudio_.
-- Know how to create their own _R_ functions.
+The participant should be:
+- familiar with basic Python: control flow, functions, NumPy
+- comfortable working with image processing libraries like scikit-image, SimpleITK, or pydicom
 
 Recommended:
-- understand how NumPy and/or Pandas work
+- understanding of medical imaging concepts and experience with machine learning or data analysis techniques
