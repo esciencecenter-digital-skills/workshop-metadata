@@ -1,1 +1,1 @@
-Intermediate level course teaching the basics of Parallel Programming in Python using Numba, Dask and Asyncio.
+This lesson provides a comprehensive introduction to computational techniques for analyzing medical images using Python, focusing on practical applications with scikit-image, nibabel, SimpleITK, and pydicom.

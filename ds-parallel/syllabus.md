@@ -1,8 +1,6 @@
-- Recognizing potential for parallelism
-- Dependency diagrams
-- Measuring performance
-- Working with Dask arrays
-- Working with Numba
-- Parallel design patterns
-- Delayed evaluation
-- Parallel programming using asyncio
+- Introduction to medical imaging
+- Working with MRI
+- Registration and segmentation with SITK
+- Perparing images for machine learning
+- Introduction to anonymization
+- Generative AI in medical imaging

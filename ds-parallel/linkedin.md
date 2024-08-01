@@ -1,6 +1,5 @@
-Do you struggle with your Python code performance, but don’t know how to optimise it?
+Are you looking to enhance your research with advanced medical image analysis but unsure where to start?
 
-On [date] we are hosting a workshop on 'Parallel Programming with Python'. You will learn everything about Dask, Numba, and asyncio.
+On [date], join our course on 'Medical Image Processing with Python'. You’ll gain hands-on experience with scikit-image, pydicom, SimpleITK, and machine learning methods tailored for medical imaging.
 
-Get more information and register here:
-[link]
+Find out more and sign up here: [link]
