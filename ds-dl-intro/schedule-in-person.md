@@ -12,9 +12,9 @@
       <tr> <td>12:30</td>  <td>Lunch Break</td></tr>
       <tr> <td>13:30</td>  <td>Classification by a Neural Network using Keras</td> </tr>
       <tr> <td>14:30</td>  <td>Break</td></tr>
-      <tr> <td>14:40</td>  <td>Classification by a Neural Network using Keras</td> </tr>
+      <tr> <td>14:40</td>  <td>Monitor the training process</td> </tr>
       <tr> <td>15:30</td>  <td>Break</td></tr>
-      <tr> <td>15:40</td>  <td>Classification by a Neural Network using Keras</td> </tr>
+      <tr> <td>15:40</td>  <td>Monitor the training process</td> </tr>
       <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
       <tr> <td>16:30</td>  <td>END</td> </tr>
     </table>
@@ -28,11 +28,11 @@
       <tr> <td>10:30</td>  <td>Break</td></tr>
       <tr> <td>10:40</td>  <td>Monitor the training process</td> </tr>
       <tr> <td>11:30</td>  <td>Break</td></tr>
-      <tr> <td>11:40</td>  <td>Monitor the training process</td></tr>
+      <tr> <td>11:40</td>  <td>Advanced layer types</td></tr>
       <tr> <td>12:30</td>  <td>Lunch Break</td></tr>
       <tr> <td>13:30</td>  <td>Advanced layer types</td></tr>
       <tr> <td>14:30</td>  <td>Break</td></tr>
-      <tr> <td>14:40</td>  <td>Advanced layer types</td> </tr>
+      <tr> <td>14:40</td>  <td>Transfer learning</td> </tr>
       <tr> <td>15:30</td>  <td>Break</td></tr>
       <tr> <td>15:40</td>  <td>Outlook</td> </tr>
       <tr> <td>16:15</td>  <td>Post-workshop Survey</td> </tr>
