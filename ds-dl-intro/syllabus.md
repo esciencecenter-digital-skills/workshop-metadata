@@ -32,6 +32,9 @@ Advanced layer types
 - “Implement a convolutional neural network on an image dataset”
 - “Use a drop-out layer to prevent overfitting”
 
+Transfer learning:
+- "Adapt a state-of-the-art pre-trained network to your own dataset"
+
 Outlook
 - “Understand that what we learned in this course can be applied to real-world problems”
 - “Use best practices for organising a deep learning project”
