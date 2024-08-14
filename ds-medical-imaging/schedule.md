@@ -5,13 +5,13 @@
       <tr> <td>09:30</td>  <td>Welcome and icebreaker</td> </tr>
       <tr> <td>09:45</td>  <td>Course and Center Introduction</td></tr>
       <tr> <td>10:00</td>  <td>Introduction to Medical Imaging</td></tr>
-      <tr> <td>10:30</td>  <td>MRI I</td> </tr>
-      <tr> <td>11:00</td>  <td>Coffee Break</td> </tr>
-      <tr> <td>11:15</td>  <td>MRI II</td> </tr>
-      <tr> <td>12:30</td>  <td>Lunch</td> </tr>
-      <tr> <td>13:30</td>  <td>Registration and Segmentation with SITK</td> </tr>
-      <tr> <td>15:00</td>  <td>Coffee Break</td> </tr>
-      <tr> <td>15:15</td>  <td>Preparing Images for ML</td> </tr>
+      <tr> <td>10:20</td>  <td>MRI I</td> </tr>
+      <tr> <td>10:45</td>  <td>Coffee Break</td> </tr>
+      <tr> <td>11:00</td>  <td>MRI II</td> </tr>
+      <tr> <td>12:00</td>  <td>Lunch</td> </tr>
+      <tr> <td>12:45</td>  <td>Registration and Segmentation with SITK</td> </tr>
+      <tr> <td>15:00</td>  <td>Short Break</td> </tr>
+      <tr> <td>15:10</td>  <td>Preparing Images for ML</td> </tr>
       <tr> <td>16:00</td>  <td>Anonmymization</td> </tr>
       <tr> <td>16:30</td>  <td>Generative AI</td></tr>
       <tr> <td>16:45</td>  <td>Wrap-up</td> </tr>
