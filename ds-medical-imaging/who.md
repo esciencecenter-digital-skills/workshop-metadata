@@ -1,6 +1,6 @@
-The participant should be:
-- familiar with basic Python: control flow, functions, NumPy
-- comfortable working with image processing libraries like scikit-image, SimpleITK, or pydicom
+The participant should:
+- be familiar with basic Python: control flow, functions, NumPy
+- understand medical imaging concepts and have experience with image analysis techniques
 
 Recommended:
-- understanding of medical imaging concepts and experience with machine learning or data analysis techniques
+- familiar with the click-and-point interface of libraries like scikit-image, simpleITK and pydicom
