@@ -1,6 +1,6 @@
-- Introduction to medical imaging
+- Medical Imaging Modalities
 - Working with MRI
-- Registration and segmentation with SITK
-- Perparing images for machine learning
-- Introduction to anonymization
-- Generative AI in medical imaging
+- Registration and Segmentation with SITK
+- Preparing Images for Machine Learning
+- Anonymizing Medical Images
+- Generative AI in Medical Imaging
