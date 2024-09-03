@@ -4,4 +4,4 @@ The participant should:
 - understand medical imaging concepts and have some experience with image analysis 
 
 Recommended:
-- familiar with libraries like scikit-image
+- familiarity with image analysis libraries such as scikit-image
