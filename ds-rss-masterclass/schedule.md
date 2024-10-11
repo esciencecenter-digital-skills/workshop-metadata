@@ -1,5 +1,4 @@
-
-<h3> Two separate days with time in between for homework exercises</h3>
+<p><b> The workshop consists of two separate in-person days with time in between for homework exercises</b></p>
 
 <div class="row">
   <div class="col-md-6">
