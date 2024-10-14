@@ -1,4 +1,4 @@
-This masterclass is aimed at research support staff, that want to learn about research software and be able to better support researchers who write code in their research. 
+This workshop is aimed at research support staff, that want to learn about research software and be able to better support researchers who write code in their research. 
 
 For example (but not exclusively): University Library staff, Digital Competence Center staff, Data Stewards, Research Software Engineers, etc.
 

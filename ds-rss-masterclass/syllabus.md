@@ -1,8 +1,7 @@
-- Research Software
-- FAIR software
+- Research Software and its position in the academic landscape
+- Initiatives regarding software, like FAIR software, (Free and ) Open Source Software, RSE community, etc.
 - Software Management Plans
 - Good Practices in Software Development
-- Software Documentation
 - Software Licensing
 - Software Publication
 - Software Citation
