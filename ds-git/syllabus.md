@@ -1,11 +1,14 @@
-Introduction to version control with Git 
-* Tracking changes: `git add` & `git commit`
-* Exploring history, checking out older versions
+Introduction to version control with Git
+* What is version control and why should I use it?
+* Setting up Git locally
+* Creating a Git repository
+* Tracking changes: `git status`, `git add` & `git commit`
+* Exploring history: identify and recover old versions of files
 * Ignoring things with .gitignore files
-* Github remotes
+* Remote repositories in GitHub
 
 Collaboration with Git and Github
-* Creating pull requests
-* Review process
-* Good practices for collaboration
-* Contributing to repositories with forks
+* Submitting changes through pull requests in Github
+* The peer review process
+* Good practices for collaboration: using issues and the git workflow
+* Contributing to repositories as external contributor through forks
