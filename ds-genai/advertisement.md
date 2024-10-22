@@ -1,0 +1,1 @@
+Enhance your coding skills with AI-powered tools in our "AI-assisted Coding with Codeium" lesson! Learn to generate, optimize, and debug code efficiently while automating repetitive tasks, all while addressing ethical and security considerations.

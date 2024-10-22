@@ -1,0 +1,2 @@
+- [Codeium documentation](https://help.codeium.com/hc/en-us)
+- [Prompting guide 101: A quick-start handbook for effective prompts](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)

@@ -1,0 +1,1 @@
+Learn to leverage AI tools like Codeium to generate, optimize, and automate code while addressing ethical and security concerns.
