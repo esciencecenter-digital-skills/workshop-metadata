@@ -2,9 +2,9 @@ Introduction to version control with Git
 * Tracking changes: `git add` & `git commit`
 * Exploring history, checking out older versions
 * Ignoring things with .gitignore files
-* Github remotes
+* GitHub remotes
 
-Collaboration with Git and Github
+Collaboration with Git and GitHub
 * Creating pull requests
 * Review process
 * Good practices for collaboration
@@ -23,6 +23,6 @@ Testing
 * Writing tests with `pytest`
 
 Continuous Integration 
-* Introducton to Continuous Integration
+* Introduction to Continuous Integration
 * Setting up Continuous Integration with Github Workflows
 * Linting and automated testing
