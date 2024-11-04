@@ -1,4 +1,3 @@
 - Introduction to AI Coding Assistants
 - Code Generation and Optimization
-- Enhancing Coding Efficiency
 - Ethical and Security Considerations
