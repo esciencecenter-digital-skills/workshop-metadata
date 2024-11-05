@@ -24,11 +24,11 @@ Click Open Visual Studio Code, which should redirect you back to Visual Studio C
 
 #### Setting Up Your Python Environment
 
-1. Installing Python
+##### Installing Python
 
 For the practical exercises in this lesson, we will use Python. If Python isn't already installed on your system, download it from the [official Python website](https://www.python.org/downloads/) and follow the provided instructions for installation.
 
-2. Setting Up a Virtual Environment
+##### Setting Up a Virtual Environment
 
 To ensure a consistent and isolated Python environment, we recommend using a virtual environment. Virtual environments allow you to manage dependencies specific to each project without affecting other Python projects or your global Python setup.
 
