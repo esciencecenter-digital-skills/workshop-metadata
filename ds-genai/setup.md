@@ -1,8 +1,8 @@
-## Code Editor
+#### Code Editor
 
 The recommended code editor for this lesson is Visual Studio Code, a popular code editor frequently used by researchers. You can download it from [the official website](https://code.visualstudio.com/). Follow the instructions on the website to install it on your operating system.
 
-## Setting up Codeium
+#### Setting up Codeium
 
 1. Make sure you have an Integrated Development Environment (IDE) installed on your computer. Go to [the Codeium download page](https://codeium.com/download) to see a list of supported IDEs and installation instructions. Visual Studio Code is on the list, so if you followed the previous step, you are all set.
 
@@ -22,13 +22,13 @@ Click Open Visual Studio Code, which should redirect you back to Visual Studio C
 
 7. All Done! You will be asked to confirm the authentication in Visual Studio Code (click Open in the resulting pop-up).
 
-## Setting Up Your Python Environment
+#### Setting Up Your Python Environment
 
-### Installing Python
+1. Installing Python
 
 For the practical exercises in this lesson, we will use Python. If Python isn't already installed on your system, download it from the [official Python website](https://www.python.org/downloads/) and follow the provided instructions for installation.
 
-### Setting Up a Virtual Environment
+2. Setting Up a Virtual Environment
 
 To ensure a consistent and isolated Python environment, we recommend using a virtual environment. Virtual environments allow you to manage dependencies specific to each project without affecting other Python projects or your global Python setup.
 
