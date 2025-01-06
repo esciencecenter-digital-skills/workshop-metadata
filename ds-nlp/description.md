@@ -1,3 +1,3 @@
-This lesson teaches the fundamentals of Natural Language Processing (NLP) in Python, with applications in the Humanities and Social Sciences.
+This lesson teaches the fundamentals of Natural Language Processing (NLP) in Python. It will equip you with the foundational skills and knowledge needed to carry over text-based research projects. The lesson is designed with researchers in the Humanities and Social Sciences in mind, but is also applicable to other fields of research.
 
-It will equip you with the foundational skills and knowledge needed to carry over text-based research projects. The lesson is designed with researchers in the Humanities and Social Sciences in mind, but is also applicable to other fields of research.
+On the first day we will dive in to text preprocessing and word embeddings while epxloring semantic shifts in various words over multiple decades. The second day begins with an introduction to transformers, where we will work on tasks with the BERT model.  In the afternoon, we willl cover large language language models, and you will learn how to build your own agents.
