@@ -1,0 +1,1 @@
+Always wanted to know more about natural language processing and large language models? Join our workshop <i>Fundamentals of natural language processing in Python</i> and learn the foundational skills and knowledge needed to carry over text-based research projects!

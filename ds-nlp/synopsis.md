@@ -1,0 +1,1 @@
+This workshop will provide participants with the fundamentals of Natural Language Processing (NLP) in Python.
