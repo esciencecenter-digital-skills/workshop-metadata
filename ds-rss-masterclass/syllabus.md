@@ -2,6 +2,7 @@
 - Initiatives regarding software, like FAIR software, (Free and ) Open Source Software, RSE community, etc.
 - Software Management Plans
 - Good Practices in Software Development
-- Software Licensing
-- Software Publication
-- Software Citation
+  - Version Control
+  - Distributing software
+  - Licensing
+  - Publication and Citation
