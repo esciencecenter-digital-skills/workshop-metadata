@@ -1,5 +1,3 @@
-## Syllabus
-
 - Basics of Julia: build a model of our solar system
   * operations, control flow, functions
   * `Unitful` quantities, `Dataframes` and plotting with `Makie`
