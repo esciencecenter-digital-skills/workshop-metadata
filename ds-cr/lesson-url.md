@@ -1,1 +1,1 @@
-https://github.com/esciencecenter-digital-skills/good-practices-in-research-software-development
+https://esciencecenter-digital-skills.github.io/good-practices-lesson/
