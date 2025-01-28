@@ -12,6 +12,9 @@ To participate in this workshop, you will need to prepare the following:
   
 Please refer to [this page](https://carpentries-incubator.github.io/collaborative-git-and-github-lesson/) for detailed instructions.
 
+
+In addition, you will need to:
+
 - Install Miniconda.
 - Create a Conda environment for the workshop. 
 
