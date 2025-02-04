@@ -22,5 +22,6 @@ curriculum name e.g. "ds-parallel". Then eidt the files:
 -    schedule.md: the times and what you will be teaching at each day in a time-table format.
 -    title.md: the title of the workshop.
 -    lesson-url.md: the link of the lesson website, not the Github repo
+-    slides-url.md: a link to your preferred slides, you can use the NEBULA platform [digital skills slides repo url](https://github.com/esciencecenter-digital-skills/digital-skills-slides).
 -    resources.md: a list of useful resources for workshop participants
 -    tweets.md: a collection of tweets to promote the workshop
