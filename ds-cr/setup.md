@@ -18,9 +18,9 @@ In addition, you will need to:
 - Install Miniconda.
 - Create a Conda environment for the workshop. 
 
-Please refer to [this page](https://esciencecenter-digital-skills.github.io/good-practices-lesson/#software-setup) for instructions.
+Please refer to [this page](https://carpentries-incubator.github.io/good-practices-lesson/#software-setup) for instructions.
 
 
 #### If something does not work:
-Follow the corresponding setup instructions. If you still need help, come to our dedicated setup session.
+Follow the corresponding setup instructions. If you still need help, please send us an email to training@esciencecenter.nl.
 
