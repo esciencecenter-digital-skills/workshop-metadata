@@ -36,10 +36,10 @@
       <tr> <td>13:30</td>  <td>Advanced topics</td> </tr>
       <tr> <td>14:00</td>  <td>Break</td> </tr>
       <tr> <td>14:10</td>  <td>Try out learned skills on new dataset</td> </tr>
-      <tr> <td>15:00</td>  <td>Break</td> </tr>
-      <tr> <td>15:10</td>  <td>Concluding remarks</td> </tr>
-      <tr> <td>15:45</td>  <td>Wrap-up & Post-workshop Survey</td> </tr>
-      <tr> <td>16:00</td>  <td>Guest lecture</td> </tr>
+      <tr> <td>15:00</td>  <td>Guest lecture</td> </tr>
+      <tr> <td>16:00</td>  <td>Break</td> </tr>
+      <tr> <td>16:10</td>  <td>Concluding remarks</td> </tr>
+      <tr> <td>16:45</td>  <td>Wrap-up & Post-workshop Survey</td> </tr>
       <tr> <td>17:00</td>  <td>END</td> </tr>
     </table>
   </div>
