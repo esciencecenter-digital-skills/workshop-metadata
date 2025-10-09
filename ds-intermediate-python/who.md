@@ -1,5 +1,5 @@
 **This course is for you if:**
-* You have been writing software for a while, which may be used by people other than yourself, but it is currently undocumented or unstructured 
+* You have been writing software for a while, which may be used by people other than yourself, but it is currently undocumented or unstructured
 * You want to learn:
     * more intermediate software engineering techniques and tools
     * how to collaborate with others to develop software
@@ -17,7 +17,7 @@
 
 **Prerequisites:**
 
-To attend this course you should meet the following criteria. You can also test your prerequisite knowledge by taking [this short quiz](https://carpentries-incubator.github.io/python-intermediate-development/quiz/index.html).
+To attend this course you should meet the following criteria. You can also test your prerequisite knowledge by taking [this short quiz](https://carpentries-incubator.github.io/python-intermediate-development/quiz.html).
 
 * Git
    * You are familiar with the concept of version control
