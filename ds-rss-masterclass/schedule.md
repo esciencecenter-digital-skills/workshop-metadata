@@ -5,7 +5,7 @@
     <h3>Day 1</h3>
     <table class="table table-striped">
       <tr> <th>local Amsterdam time</th> <th>what</th></tr>
-      <tr> <td>9:30</td>  <td>Welcome and icebreaker</td> </tr>
+      <tr> <td>09:30</td>  <td>Welcome and icebreaker</td> </tr>
       <tr> <td>10:00</td>  <td>Research Software</td></tr>
       <tr> <td>11:00</td>  <td>Break</td></tr>
       <tr> <td>11:15</td>  <td>Software in the Research Landscape</td></tr>
