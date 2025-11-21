@@ -5,7 +5,7 @@
       <tr> <td>09:00</td>  <td>Welcome and icebreaker </td> </tr>
       <tr> <td>09:15</td>  <td>Introduction to NLP</td> </tr>
       <tr> <td>10:15</td>  <td>Coffee break</td> </tr>
-      <tr> <td>10:30</td>  <td>NLP Tasks</td> </tr>
+      <tr> <td>10:30</td>  <td>Defining NLP Tasks</td> </tr>
       <tr> <td>11:30</td>  <td>Coffee break</td> </tr>
       <tr> <td>11:45</td>  <td>A Primer on Linguistics</td> </tr>
       <tr> <td>12:45</td>  <td>Wrap-up</td> </tr>

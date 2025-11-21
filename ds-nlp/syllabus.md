@@ -22,7 +22,6 @@ BERT and Transformers:
 Large Language Models
 - What are Large Language Models (LLMs)?
 - Prompting to solve NLP Tasks
-- Use local LLMs with Ollama
+- Using local LLMs with Ollama
 - Drawbacks and biases in LLMs
-- Advanced material
 
