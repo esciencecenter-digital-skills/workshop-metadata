@@ -1,28 +1,28 @@
 Introduction
 - What is NLP?
-- Core applications
-- NLP tasks
-- Natural vs Artificial Language
+- Why learn NLP fundamentals?
+- Language as data
+- A primer on linguistics
 
 From text to vectors:
-- Formulate the problem: semantic shift
-- Download and inspect the data
-- Prepare data to be ingested by the model (preprocessing)
-- Tracing semantic shifts with word embeddings
-- Train the Word2Vec model
-- Load the embeddings and inspect them
+- Preprocessing Operations
+- NLP Pipeline
+- Word Embeddings
+- Exploring Word2Vec
+- Train your own Word2Vec
 
 BERT and Transformers:
-- Transformers
-- BERT
-- BERT Architecture
+- Drawbacks of Word2Vec
+- Transformer Architecture
+- Introduction to BERT
 - BERT as a Language Model
 - BERT for Text Classification
-- Understanding BERT Architecture
-- BERT for Token Classification
+- Evaluating Classifiers
 
 Large Language Models
 - What are Large Language Models?
-- Building a chatbot
-- Retrieval Augmented Generation - build a RAG
+- Prompting to solve NLP Tasks
+- Transformers and LLMs
+- Drawbacks and biases
+- Advanced material
 

@@ -1,1 +1,1 @@
-Please follow [these setup instructions](https://esciencecenter-digital-skills.github.io/Natural-language-processing/index.html) in preparation for the workshop. This page includes the data sets to be downloaded as well.
+Please follow [these setup instructions](https://carpentries-incubator.github.io/Natural-language-processing/#software-setup) in preparation for the workshop. This page includes the data sets to be downloaded as well.
