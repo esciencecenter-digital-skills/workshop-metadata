@@ -10,7 +10,7 @@
       <tr> <td>11:45</td>  <td>A Primer on Linguistics</td> </tr>
       <tr> <td>12:45</td>  <td>Wrap-up</td> </tr>
       <tr> <td>13:00</td>  <td>Lunch</td></tr>
-      <tr> <td>14:00</td>  <td>From text to vectors: Preprocessing</td> </tr>
+      <tr> <td>14:00</td>  <td>From text to vectors: Preprocessing and NLP Pipelines</td> </tr>
       <tr> <td>15:00</td>  <td>Coffee break</td> </tr>
       <tr> <td>15:15</td>  <td>Word embeddings and Word2Vec</td></tr>
       <tr> <td>16:00</td>  <td>Tea break</td> </tr>
@@ -34,7 +34,7 @@
       <tr> <td>15:00</td>  <td>Coffee break</td> </tr>
       <tr> <td>15:15</td>  <td>Using Large Language Models</td></tr>
       <tr> <td>16:00</td>  <td>Tea break</td> </tr>
-      <tr> <td>16:15</td>  <td>Drawbacks and biases </td></tr>
+      <tr> <td>16:15</td>  <td>Drawbacks and biases in LLMs</td></tr>
       <tr> <td>16:45</td>  <td>Wrap-up</td> </tr>
       <tr> <td>17:00</td>  <td>END</td> </tr>
     </table>

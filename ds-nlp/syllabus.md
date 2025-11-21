@@ -1,7 +1,7 @@
 Introduction
-- What is NLP?
+- What is Natural Language Processing (NLP)?
 - Why learn NLP fundamentals?
-- Language as data
+- Defining NLP Tasks
 - A primer on linguistics
 
 From text to vectors:
@@ -20,9 +20,9 @@ BERT and Transformers:
 - Evaluating Classifiers
 
 Large Language Models
-- What are Large Language Models?
+- What are Large Language Models (LLMs)?
 - Prompting to solve NLP Tasks
-- Transformers and LLMs
-- Drawbacks and biases
+- Use local LLMs with Ollama
+- Drawbacks and biases in LLMs
 - Advanced material
 
