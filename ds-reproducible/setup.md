@@ -1,1 +1,1 @@
-For this workshop you need a laptop and access to the internet. Bring a coding project in R or Python, be it a few lines of code or a larger piece of software.
+For this workshop you need a laptop and access to the internet. Choose one of your coding projects in R or Python, be it a few lines of code or a larger piece of software. Make sure you have uploaded the code to GitHub!
