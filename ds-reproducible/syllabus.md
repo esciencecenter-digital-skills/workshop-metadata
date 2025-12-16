@@ -1,0 +1,7 @@
+- Why is reproducibility important?
+- How do I share my code with others using GitHub?
+- What is the minimal documentation required for others to be able to run my code?
+- Writing a good README file
+- Dealing with dependencies
+- What makes code readable and reusable?
+- Code conventions and modular coding
