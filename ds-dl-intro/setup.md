@@ -1,4 +1,4 @@
-<!-- If the setup instructions need to change, please file an issue here: https://github.com/carpentries-incubator/deep-learning-intro -->
+<!-- If the setup instructions need to change, please file an issue here: https://github.com/carpentries-lab/deep-learning-intro -->
 Please follow [these setup instructions](https://carpentries-lab.github.io/deep-learning-intro/index.html) in preparation for the workshop.
 
 Make sure to download the required datasets as well:
