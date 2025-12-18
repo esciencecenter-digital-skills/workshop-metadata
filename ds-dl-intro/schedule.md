@@ -24,7 +24,7 @@
     <table class="table table-striped">
       <tr> <th>local Amsterdam time</th> <th>what</th></tr>
       <tr> <td>09:30</td>  <td>Welcome and recap</td> </tr>
-      <tr> <td>09:45</td>  <td>Monitor the training processs</td></tr>
+      <tr> <td>09:45</td>  <td>Monitor the training process</td></tr>
       <tr> <td>10:30</td>  <td>Break</td></tr>
       <tr> <td>10:40</td>  <td>Monitor the training process</td> </tr>
       <tr> <td>11:30</td>  <td>Break</td></tr>
