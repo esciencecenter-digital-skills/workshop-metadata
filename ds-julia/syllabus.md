@@ -3,7 +3,7 @@
   * `Unitful` quantities, `Dataframes` and plotting with `Makie`
   * types and dispatch
   * arrays and broadcasting
-- Package development: solving Cubic equations
+- Package development
   * working with the REPL, and `Pkg`
   * best practices with `BestieTemplate`
   * testing with `Test`, documentation with `Documenter`

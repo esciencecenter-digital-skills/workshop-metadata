@@ -26,13 +26,13 @@
     <table class="table table-striped">
       <tr> <td>09:30</td> <td>Welcome and icebreaker </td> </tr>
       <tr> <td>09:45</td>  <td>Recap</td> </tr>
-      <tr> <td>10:00</td>  <td>Profiling</td> </tr>
+      <tr> <td>10:00</td>  <td>Benchmarking and Profiling</td> </tr>
       <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
-      <tr> <td>10:40</td>  <td>Iterators with Logistic maps</td> </tr>
+      <tr> <td>10:40</td>  <td>Type Stability</td> </tr>
       <tr> <td>11:30</td>  <td>Coffee break</td> </tr>
-      <tr> <td>11:40</td>  <td>Programming Techniques</td> </tr>
+      <tr> <td>11:40</td>  <td>Memory Allocation</td> </tr>
       <tr> <td>12:30</td>  <td>Lunch</td> </tr>
-      <tr> <td>13:30</td>  <td>Programming Techniques (cont'd)</td> </tr>
+      <tr> <td>13:30</td>  <td>Programming Techniques</td> </tr>
       <tr> <td>14:30</td>  <td>Tea break</td> </tr>
       <tr> <td>14:40</td>  <td>Multi-threading</td> </tr>
       <tr> <td>15:30</td>  <td>Tea break</td> </tr>
