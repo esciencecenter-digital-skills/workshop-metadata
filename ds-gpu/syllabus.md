@@ -1,7 +1,0 @@
-- accelerate NumPy primitives with CuPy
-- accelerate Python code with Numba
-- learn the basics of CUDA
-- use CuPy to execute CUDA code in Python
-- understand the different CUDA memories
-- thread synchronization in CUDA
-- overlapping computation and communication
