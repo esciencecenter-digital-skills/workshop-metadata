@@ -2,6 +2,7 @@
 - Accelerate NumPy primitives with CuPy
 - Accelerate Python code with Numba
 - Accelerate Python code with PyTorch
+- Write portable code for NVIDIA and AMD GPUs
 - Understand the fundamentals of CUDA and HIP
 - Improve performance using auto-tuning
 - Gain insights into the energy-efficiency of GPU code
