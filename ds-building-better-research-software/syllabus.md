@@ -1,0 +1,8 @@
+- Software for open and reproducible research
+- Better start with a software project
+- Reproducible software environments
+- Code readability
+- Code structure
+- Code correctness & testing
+- Software documentation
+- Software management & collaboration

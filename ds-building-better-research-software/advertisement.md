@@ -1,0 +1,1 @@
+Software is fundamental to modern research and some of it would even be impossible without software. This course aims to provide researchers with the tools and knowledge to confidently write good quality and sustainable software to support their research.

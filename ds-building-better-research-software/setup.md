@@ -1,0 +1,1 @@
+It is important that you setup everything on your laptop before the start of the course. Please follow (these setup instructions)[[link to externally hosted setup instructions](https://carpentries-incubator.github.io/better-research-software/installation-instructions.html)]. Send us an email if you encounter any problems.
