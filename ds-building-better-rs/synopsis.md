@@ -1,0 +1,1 @@
+This course aims to provide researchers with the tools and knowledge to confidently write good quality and sustainable software to support their research.
