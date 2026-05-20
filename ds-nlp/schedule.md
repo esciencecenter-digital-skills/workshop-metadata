@@ -30,8 +30,7 @@
         <tr> <td>12:30</td>  <td>Lunch</td> </tr>
         <tr> <td>13:30</td>  <td>Evaluating NLP Classifiers</td> </tr>
         <tr> <td>14:30</td>  <td>Coffee break</td> </tr>
-        <tr> <td>14:40</td>  <td>LLMs: What they are and how to choose</td> </tr>
-        <tr> <td>15:00</td>  <td>Prompting and using local LLMs</td> </tr>
+        <tr> <td>14:40</td>  <td>Prompting and using local LLMs</td> </tr>
         <tr> <td>15:30</td>  <td>Tea break</td> </tr>
         <tr> <td>15:40</td>  <td>Drawbacks and Biases in LLMs</td> </tr>
         <tr> <td>16:45</td>  <td>Post-workshop Survey</td> </tr>
