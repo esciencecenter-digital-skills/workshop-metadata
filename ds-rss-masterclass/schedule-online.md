@@ -12,7 +12,8 @@
       <tr> <td>11:45</td>  <td>Break</td></tr>
       <tr> <td>12:00</td>  <td>Landscape exercise</td></tr>
       <tr> <td>13:00</td>  <td>End of Day 1</td></tr>
-      </table>
+    </table>
+  </div>
 </div>
 
 <div class="row">
@@ -27,7 +28,8 @@
       <tr> <td>11:30</td>  <td>Break</td></tr>
       <tr> <td>11:45</td>  <td>Version Control</td></tr>
       <tr> <td>13:00</td>  <td>End of Day 2</td></tr>
-      </table>
+    </table>
+  </div>
 </div>
   
 <div class="row">
@@ -42,13 +44,15 @@
       <tr> <td>11:45</td>  <td>Break</td></tr>
       <tr> <td>12:00</td>  <td>Software Citations</td>
       <tr> <td>13:00</td>  <td>End of Day 3</td></tr>
-      </table>
+    </table>
+  </div>
 </div>
-
       
+<div class="row">
   <div class="col-md-6">
     <h3>Day 4</h3>
-    <table class="table table-striped"> 
+    <table class="table table-striped">
+      <tr> <th>local Amsterdam time</th> <th>what</th></tr>
       <tr> <td>09:00</td>  <td>Welcome and recap</td> </tr>
       <tr> <td>09:15</td>  <td>Distributing Software</td></tr>
       <tr> <td>10:15</td>  <td>Break</td> </tr>
@@ -60,9 +64,11 @@
   </div>
 </div>
 
+<div class="row">
   <div class="col-md-6">
     <h3>Day 5</h3>
-    <table class="table table-striped"> 
+    <table class="table table-striped">
+      <tr> <th>local Amsterdam time</th> <th>what</th></tr>
       <tr> <td>09:00</td>  <td>Welcome and recap</td> </tr>
       <tr> <td>09:15</td>  <td>Gen AI Lesson Pilot</td></tr>
       <tr> <td>10:15</td>  <td>Break</td> </tr>
