@@ -58,7 +58,7 @@
       <tr> <td>10:15</td>  <td>Break</td></tr>
       <tr> <td>10:30</td>  <td>Software Publications</td></tr>
       <tr> <td>11:30</td>  <td>Break</td></tr>
-      <tr> <td>11:45</td>  <td>Software Citations</td></tr>
+      <tr> <td>11:45</td>  <td>Software Licenses</td></tr>
       <tr> <td>13:00</td>  <td>End of day 4</td></tr>
     </table>
   </div>
