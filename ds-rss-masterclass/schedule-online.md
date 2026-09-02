@@ -56,9 +56,9 @@
       <tr> <td>09:00</td>  <td>Welcome and recap</td></tr>
       <tr> <td>09:15</td>  <td>Distributing Software</td></tr>
       <tr> <td>10:15</td>  <td>Break</td></tr>
-      <tr> <td>10:30</td>  <td>Software Licenses</td></tr>
-      <tr> <td>11:45</td>  <td>Break</td></tr>
-      <tr> <td>12:00</td>  <td>Software Publication</td></tr>
+      <tr> <td>10:30</td>  <td>Publications</td></tr>
+      <tr> <td>11:30</td>  <td>Break</td></tr>
+      <tr> <td>11:45</td>  <td>Software Citations</td></tr>
       <tr> <td>13:00</td>  <td>End of day 4</td></tr>
     </table>
   </div>
