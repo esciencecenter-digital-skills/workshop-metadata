@@ -25,13 +25,13 @@
       <tr> <td>09:30</td>  <td>Welcome, icebreaker and recap</td> </tr>
       <tr> <td>09:45</td>  <td>Threads and processes</td> </tr>
       <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
-      <tr> <td>10:45</td>  <td>Delayed evaluation</td></tr>
+      <tr> <td>10:45</td>  <td>Delayed evaluation and Futures</td></tr>
       <tr> <td>12:00</td>  <td>Tea break</td> </tr>
       <tr> <td>12:15</td>  <td>Data flow patterns</td> </tr>
       <tr> <td>13:00</td>  <td>Lunch</td></tr>      
-      <tr> <td>14:00</td>  <td>Introduction to coroutines and asyncio</td> </tr>
+      <tr> <td>14:00</td>  <td>Data science with Polars</td> </tr>
       <tr> <td>14:45</td>  <td>Coffee break</td> </tr>
-      <tr> <td>15:00</td>  <td>Computing fractals in parallel</td></tr>
+      <tr> <td>15:00</td>  <td>Group exercise</td></tr>
       <tr> <td>15:45</td>  <td>Tea break</td> </tr>
       <tr> <td>16:30</td>  <td>Presentations of group work</td> </tr>
       <tr> <td>16:45</td>  <td>Post-workshop Survey</td> </tr>
